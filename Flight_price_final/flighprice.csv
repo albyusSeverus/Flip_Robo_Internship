@@ -1,0 +1,1601 @@
+,Airline,Day,Date,Departure,Arrival,Duration,Source,Destination,Stops,Fare
+0,Air Asia,Mon, 1 Nov,21:25,06:45,9h 20m,New Delhi,Mumbai,1,5953
+1,Air Asia,Mon, 1 Nov,21:25,07:15,9h 50m,New Delhi,Mumbai,1,5953
+2,Air Asia,Mon, 1 Nov,20:45,06:45,10h 00m,New Delhi,Mumbai,1,5953
+3,Air Asia,Mon, 1 Nov,20:45,07:15,10h 30m,New Delhi,Mumbai,1,5953
+4,Air Asia,Mon, 1 Nov,18:35,06:45,12h 10m,New Delhi,Mumbai,1,5953
+5,Air Asia,Mon, 1 Nov,18:35,07:15,12h 40m,New Delhi,Mumbai,1,5953
+6,Air Asia,Mon, 1 Nov,22:10,12:25,14h 15m,New Delhi,Mumbai,1,5953
+7,Go First,Mon, 1 Nov,07:00,09:10,2h 10m,New Delhi,Mumbai,Non,5954
+8,Go First,Mon, 1 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5954
+9,Go First,Mon, 1 Nov,22:30,00:40,2h 10m,New Delhi,Mumbai,Non,5954
+10,Go First,Mon, 1 Nov,02:40,04:55,2h 15m,New Delhi,Mumbai,Non,5954
+11,Go First,Mon, 1 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5954
+12,Go First,Mon, 1 Nov,19:40,21:55,2h 15m,New Delhi,Mumbai,Non,5954
+13,Go First,Mon, 1 Nov,21:00,23:15,2h 15m,New Delhi,Mumbai,Non,5954
+14,Go First,Mon, 1 Nov,10:30,12:50,2h 20m,New Delhi,Mumbai,Non,5954
+15,Go First,Mon, 1 Nov,15:00,17:30,2h 30m,New Delhi,Mumbai,Non,5954
+16,Go First,Mon, 1 Nov,17:55,20:25,2h 30m,New Delhi,Mumbai,Non,5954
+17,Go First,Mon, 1 Nov,06:00,10:40,4h 40m,New Delhi,Mumbai,1,5954
+18,Go First,Mon, 1 Nov,15:30,21:25,5h 55m,New Delhi,Mumbai,1,5954
+19,Go First,Mon, 1 Nov,11:50,18:10,6h 20m,New Delhi,Mumbai,1,5954
+20,Go First,Mon, 1 Nov,06:00,12:30,6h 30m,New Delhi,Mumbai,1,5954
+21,Go First,Mon, 1 Nov,09:00,15:55,6h 55m,New Delhi,Mumbai,1,5954
+22,Vistara,Mon, 1 Nov,06:00,08:00,2h 00m,New Delhi,Mumbai,Non,5955
+23,Air India,Mon, 1 Nov,07:00,09:05,2h 05m,New Delhi,Mumbai,Non,5955
+24,IndiGo,Mon, 1 Nov,06:30,08:40,2h 10m,New Delhi,Mumbai,Non,5955
+25,IndiGo,Mon, 1 Nov,07:15,09:25,2h 10m,New Delhi,Mumbai,Non,5955
+26,Air India,Mon, 1 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5955
+27,IndiGo,Mon, 1 Nov,08:10,10:20,2h 10m,New Delhi,Mumbai,Non,5955
+28,Vistara,Mon, 1 Nov,09:30,11:40,2h 10m,New Delhi,Mumbai,Non,5955
+29,Air India,Mon, 1 Nov,10:40,12:50,2h 10m,New Delhi,Mumbai,Non,5955
+30,Vistara,Mon, 1 Nov,12:50,15:00,2h 10m,New Delhi,Mumbai,Non,5955
+31,Vistara,Mon, 1 Nov,15:30,17:40,2h 10m,New Delhi,Mumbai,Non,5955
+32,Vistara,Mon, 1 Nov,16:55,19:05,2h 10m,New Delhi,Mumbai,Non,5955
+33,IndiGo,Mon, 1 Nov,17:15,19:25,2h 10m,New Delhi,Mumbai,Non,5955
+34,Vistara,Mon, 1 Nov,19:50,22:00,2h 10m,New Delhi,Mumbai,Non,5955
+35,Vistara,Mon, 1 Nov,21:40,23:50,2h 10m,New Delhi,Mumbai,Non,5955
+36,IndiGo,Mon, 1 Nov,23:15,01:25,2h 10m,New Delhi,Mumbai,Non,5955
+37,IndiGo,Mon, 1 Nov,01:05,03:20,2h 15m,New Delhi,Mumbai,Non,5955
+38,SpiceJet,Mon, 1 Nov,07:20,09:35,2h 15m,New Delhi,Mumbai,Non,5955
+39,Air India,Mon, 1 Nov,09:00,11:15,2h 15m,New Delhi,Mumbai,Non,5955
+40,IndiGo,Mon, 1 Nov,09:30,11:45,2h 15m,New Delhi,Mumbai,Non,5955
+41,Vistara,Mon, 1 Nov,10:20,12:35,2h 15m,New Delhi,Mumbai,Non,5955
+42,IndiGo,Mon, 1 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5955
+43,IndiGo,Mon, 1 Nov,18:35,20:50,2h 15m,New Delhi,Mumbai,Non,5955
+44,SpiceJet,Mon, 1 Nov,18:50,21:05,2h 15m,New Delhi,Mumbai,Non,5955
+45,SpiceJet,Mon, 1 Nov,06:30,08:50,2h 20m,New Delhi,Mumbai,Non,5955
+46,IndiGo,Mon, 1 Nov,08:45,11:05,2h 20m,New Delhi,Mumbai,Non,5955
+47,IndiGo,Mon, 1 Nov,10:45,13:05,2h 20m,New Delhi,Mumbai,Non,5955
+48,Vistara,Mon, 1 Nov,11:40,14:00,2h 20m,New Delhi,Mumbai,Non,5955
+49,Vistara,Mon, 1 Nov,17:45,20:05,2h 20m,New Delhi,Mumbai,Non,5955
+50,Vistara,Mon, 1 Nov,18:55,21:15,2h 20m,New Delhi,Mumbai,Non,5955
+51,SpiceJet,Mon, 1 Nov,19:45,22:05,2h 20m,New Delhi,Mumbai,Non,5955
+52,Air India,Mon, 1 Nov,15:05,18:15,3h 10m,New Delhi,Mumbai,1,5955
+53,SpiceJet,Mon, 1 Nov,19:00,23:50,4h 50m,New Delhi,Mumbai,1,5955
+54,IndiGo,Mon, 1 Nov,12:55,17:50,4h 55m,New Delhi,Mumbai,1,5955
+55,IndiGo,Mon, 1 Nov,05:30,10:55,5h 25m,New Delhi,Mumbai,1,5955
+56,SpiceJet,Mon, 1 Nov,11:20,17:20,6h 00m,New Delhi,Mumbai,1,5955
+57,IndiGo,Mon, 1 Nov,13:50,19:50,6h 00m,New Delhi,Mumbai,1,5955
+58,IndiGo,Mon, 1 Nov,07:20,14:50,7h 30m,New Delhi,Mumbai,1,5955
+59,IndiGo,Mon, 1 Nov,12:55,20:45,7h 50m,New Delhi,Mumbai,1,5955
+60,IndiGo,Mon, 1 Nov,07:25,16:05,8h 40m,New Delhi,Mumbai,1,5955
+61,IndiGo,Mon, 1 Nov,21:20,07:05,9h 45m,New Delhi,Mumbai,1,5955
+62,IndiGo,Mon, 1 Nov,06:05,16:05,10h 00m,New Delhi,Mumbai,1,5955
+63,IndiGo,Mon, 1 Nov,21:50,08:15,10h 25m,New Delhi,Mumbai,1,5955
+64,SpiceJet,Mon, 1 Nov,19:00,10:35,15h 35m,New Delhi,Mumbai,1,5955
+65,SpiceJet,Mon, 1 Nov,15:00,12:50,21h 50m,New Delhi,Mumbai,1,5955
+66,Air Asia,Mon, 1 Nov,04:25,06:35,2h 10m,New Delhi,Mumbai,Non,5956
+67,Air Asia,Mon, 1 Nov,20:00,22:15,2h 15m,New Delhi,Mumbai,Non,5956
+68,Vistara,Mon, 1 Nov,20:40,22:50,2h 10m,New Delhi,Mumbai,Non,6060
+69,Vistara,Mon, 1 Nov,07:30,09:45,2h 15m,New Delhi,Mumbai,Non,6060
+70,Vistara,Mon, 1 Nov,08:50,11:10,2h 20m,New Delhi,Mumbai,Non,6060
+71,IndiGo,Mon, 1 Nov,21:15,23:30,2h 15m,New Delhi,Mumbai,Non,6375
+72,IndiGo,Mon, 1 Nov,18:30,23:10,4h 40m,New Delhi,Mumbai,1,6443
+73,IndiGo,Mon, 1 Nov,11:25,20:20,8h 55m,New Delhi,Mumbai,1,6443
+74,IndiGo,Mon, 1 Nov,12:00,14:10,2h 10m,New Delhi,Mumbai,Non,6585
+75,Air India,Mon, 1 Nov,20:00,22:10,2h 10m,New Delhi,Mumbai,Non,6795
+76,IndiGo,Mon, 1 Nov,05:15,10:05,4h 50m,New Delhi,Mumbai,1,6932
+77,IndiGo,Mon, 1 Nov,12:55,23:15,10h 20m,New Delhi,Mumbai,1,6932
+78,IndiGo,Mon, 1 Nov,22:15,05:55,7h 40m,New Delhi,Mumbai,1,7420
+79,IndiGo,Mon, 1 Nov,20:20,05:55,9h 35m,New Delhi,Mumbai,1,7420
+80,Air India,Mon, 1 Nov,05:55,09:45,3h 50m,New Delhi,Mumbai,1,8098
+81,Air India,Mon, 1 Nov,05:55,23:25,17h 30m,New Delhi,Mumbai,1,8098
+82,Air India,Mon, 1 Nov,13:20,17:50,4h 30m,New Delhi,Mumbai,1,8160
+83,Air India,Mon, 1 Nov,19:00,15:50,20h 50m,New Delhi,Mumbai,1,8160
+84,Air India,Mon, 1 Nov,13:00,15:50,26h 50m,New Delhi,Mumbai,1,8160
+85,IndiGo,Mon, 1 Nov,16:00,18:15,2h 15m,New Delhi,Mumbai,Non,8370
+86,IndiGo,Mon, 1 Nov,04:45,07:10,2h 25m,New Delhi,Mumbai,Non,8370
+87,IndiGo,Mon, 1 Nov,11:25,16:40,5h 15m,New Delhi,Mumbai,1,8396
+88,IndiGo,Mon, 1 Nov,06:40,16:40,10h 00m,New Delhi,Mumbai,1,8396
+89,IndiGo,Mon, 1 Nov,22:15,08:25,10h 10m,New Delhi,Mumbai,1,8396
+90,Air India,Mon, 1 Nov,06:05,15:50,9h 45m,New Delhi,Mumbai,1,8528
+91,Go First,Mon, 1 Nov,19:40,02:00,6h 20m,New Delhi,Mumbai,1,8869
+92,Vistara,Mon, 1 Nov,17:10,21:35,4h 25m,New Delhi,Mumbai,1,9000
+93,Vistara,Mon, 1 Nov,17:10,15:25,22h 15m,New Delhi,Mumbai,1,9000
+94,Vistara,Mon, 1 Nov,13:40,21:35,7h 55m,New Delhi,Mumbai,1,9053
+95,Vistara,Mon, 1 Nov,13:40,15:25,25h 45m,New Delhi,Mumbai,1,9053
+96,Vistara,Mon, 1 Nov,17:40,23:00,5h 20m,New Delhi,Mumbai,1,9840
+97,Vistara,Mon, 1 Nov,14:45,23:00,8h 15m,New Delhi,Mumbai,1,9840
+98,Vistara,Mon, 1 Nov,20:35,09:55,13h 20m,New Delhi,Mumbai,1,9840
+99,Vistara,Mon, 1 Nov,07:05,23:00,15h 55m,New Delhi,Mumbai,1,9840
+100,Vistara,Mon, 1 Nov,17:40,09:55,16h 15m,New Delhi,Mumbai,1,9840
+101,Vistara,Mon, 1 Nov,14:45,09:55,19h 10m,New Delhi,Mumbai,1,9840
+102,Air India,Mon, 1 Nov,09:45,09:40,23h 55m,New Delhi,Mumbai,1,9840
+103,Air India,Mon, 1 Nov,08:10,09:40,25h 30m,New Delhi,Mumbai,1,9840
+104,Vistara,Mon, 1 Nov,20:35,23:00,26h 25m,New Delhi,Mumbai,1,9840
+105,Vistara,Mon, 1 Nov,07:05,09:55,26h 50m,New Delhi,Mumbai,1,9840
+106,Vistara,Mon, 1 Nov,13:40,15:15,25h 35m,New Delhi,Mumbai,1,9988
+107,IndiGo,Mon, 1 Nov,12:55,23:25,10h 30m,New Delhi,Mumbai,1,10103
+108,Air India,Mon, 1 Nov,09:45,23:20,13h 35m,New Delhi,Mumbai,1,10155
+109,Air India,Mon, 1 Nov,08:10,23:20,15h 10m,New Delhi,Mumbai,1,10155
+110,Air India,Mon, 1 Nov,05:15,16:25,11h 10m,New Delhi,Mumbai,2,10220
+111,Air India,Mon, 1 Nov,05:15,23:05,17h 50m,New Delhi,Mumbai,2,10365
+112,Go First,Mon, 1 Nov,09:10,16:15,7h 05m,New Delhi,Mumbai,1,10549
+113,IndiGo,Mon, 1 Nov,17:55,23:15,5h 20m,New Delhi,Mumbai,1,10838
+114,IndiGo,Mon, 1 Nov,13:30,20:20,6h 50m,New Delhi,Mumbai,1,10838
+115,IndiGo,Mon, 1 Nov,10:15,18:05,7h 50m,New Delhi,Mumbai,1,10838
+116,IndiGo,Mon, 1 Nov,13:30,22:15,8h 45m,New Delhi,Mumbai,1,10838
+117,IndiGo,Mon, 1 Nov,13:30,23:10,9h 40m,New Delhi,Mumbai,1,10838
+118,IndiGo,Mon, 1 Nov,11:25,22:15,10h 50m,New Delhi,Mumbai,1,10838
+119,Vistara,Mon, 1 Nov,11:10,23:10,12h 00m,New Delhi,Mumbai,1,10890
+120,Air India,Mon, 1 Nov,21:10,09:40,12h 30m,New Delhi,Mumbai,1,11100
+121,Go First,Mon, 1 Nov,09:00,17:00,8h 00m,New Delhi,Mumbai,1,11153
+122,Vistara,Mon, 1 Nov,11:10,14:45,27h 35m,New Delhi,Mumbai,1,11310
+123,Air India,Mon, 1 Nov,16:45,16:25,23h 40m,New Delhi,Mumbai,2,11375
+124,Air India,Mon, 1 Nov,07:05,13:25,6h 20m,New Delhi,Mumbai,1,11415
+125,Air India,Mon, 1 Nov,14:30,16:25,25h 55m,New Delhi,Mumbai,1,11520
+126,Air India,Mon, 1 Nov,10:15,15:40,5h 25m,New Delhi,Mumbai,1,11625
+127,IndiGo,Mon, 1 Nov,18:00,22:25,4h 25m,New Delhi,Mumbai,1,11730
+128,Go First,Mon, 1 Nov,11:30,17:00,5h 30m,New Delhi,Mumbai,1,11731
+129,Air India,Mon, 1 Nov,12:50,07:50,19h 00m,New Delhi,Mumbai,1,11773
+130,Air India,Mon, 1 Nov,18:30,13:25,18h 55m,New Delhi,Mumbai,1,11835
+131,Vistara,Mon, 1 Nov,16:05,21:50,5h 45m,New Delhi,Mumbai,1,12150
+132,Vistara,Mon, 1 Nov,17:35,23:25,5h 50m,New Delhi,Mumbai,1,12150
+133,Vistara,Mon, 1 Nov,14:15,20:15,6h 00m,New Delhi,Mumbai,1,12150
+134,Vistara,Mon, 1 Nov,16:05,23:25,7h 20m,New Delhi,Mumbai,1,12150
+135,Vistara,Mon, 1 Nov,14:15,21:50,7h 35m,New Delhi,Mumbai,1,12150
+136,Vistara,Mon, 1 Nov,14:15,23:25,9h 10m,New Delhi,Mumbai,1,12150
+137,Vistara,Mon, 1 Nov,20:40,08:15,11h 35m,New Delhi,Mumbai,1,12150
+138,Vistara,Mon, 1 Nov,08:05,20:15,12h 10m,New Delhi,Mumbai,1,12150
+139,Vistara,Mon, 1 Nov,19:50,08:15,12h 25m,New Delhi,Mumbai,1,12150
+140,Vistara,Mon, 1 Nov,20:40,10:15,13h 35m,New Delhi,Mumbai,1,12150
+141,Vistara,Mon, 1 Nov,08:05,21:50,13h 45m,New Delhi,Mumbai,1,12150
+142,Vistara,Mon, 1 Nov,06:15,20:15,14h 00m,New Delhi,Mumbai,1,12150
+143,Vistara,Mon, 1 Nov,19:50,10:15,14h 25m,New Delhi,Mumbai,1,12150
+144,Vistara,Mon, 1 Nov,17:35,08:15,14h 40m,New Delhi,Mumbai,1,12150
+145,Vistara,Mon, 1 Nov,20:40,11:25,14h 45m,New Delhi,Mumbai,1,12150
+146,Vistara,Mon, 1 Nov,08:05,23:25,15h 20m,New Delhi,Mumbai,1,12150
+147,Vistara,Mon, 1 Nov,06:15,21:50,15h 35m,New Delhi,Mumbai,1,12150
+148,Vistara,Mon, 1 Nov,19:50,11:25,15h 35m,New Delhi,Mumbai,1,12150
+149,Vistara,Mon, 1 Nov,16:05,08:15,16h 10m,New Delhi,Mumbai,1,12150
+150,Vistara,Mon, 1 Nov,20:40,13:15,16h 35m,New Delhi,Mumbai,1,12150
+151,Vistara,Mon, 1 Nov,17:35,10:15,16h 40m,New Delhi,Mumbai,1,12150
+152,Vistara,Mon, 1 Nov,06:15,23:25,17h 10m,New Delhi,Mumbai,1,12150
+153,Vistara,Mon, 1 Nov,19:50,13:15,17h 25m,New Delhi,Mumbai,1,12150
+154,Vistara,Mon, 1 Nov,17:35,11:25,17h 50m,New Delhi,Mumbai,1,12150
+155,Vistara,Mon, 1 Nov,14:15,08:15,18h 00m,New Delhi,Mumbai,1,12150
+156,Vistara,Mon, 1 Nov,06:15,13:15,7h 00m,New Delhi,Mumbai,1,12255
+157,Go First,Mon, 1 Nov,10:45,17:00,6h 15m,New Delhi,Mumbai,1,12309
+158,Go First,Mon, 1 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,13050
+159,Go First,Mon, 1 Nov,10:45,18:20,7h 35m,New Delhi,Mumbai,1,13095
+160,Go First,Mon, 1 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,13761
+161,Go First,Mon, 1 Nov,10:45,19:40,8h 55m,New Delhi,Mumbai,1,14775
+162,SpiceJet,Mon, 1 Nov,12:00,13:10,25h 10m,New Delhi,Mumbai,1,14932
+163,Air Asia,Tue, 2 Nov,21:25,06:45,9h 20m,New Delhi,Mumbai,1,5953
+164,Air Asia,Tue, 2 Nov,21:25,07:15,9h 50m,New Delhi,Mumbai,1,5953
+165,Air Asia,Tue, 2 Nov,20:45,06:45,10h 00m,New Delhi,Mumbai,1,5953
+166,Air Asia,Tue, 2 Nov,20:45,07:15,10h 30m,New Delhi,Mumbai,1,5953
+167,Air Asia,Tue, 2 Nov,18:35,06:45,12h 10m,New Delhi,Mumbai,1,5953
+168,Air Asia,Tue, 2 Nov,18:35,07:15,12h 40m,New Delhi,Mumbai,1,5953
+169,Air Asia,Tue, 2 Nov,22:10,12:25,14h 15m,New Delhi,Mumbai,1,5953
+170,Go First,Tue, 2 Nov,07:00,09:10,2h 10m,New Delhi,Mumbai,Non,5954
+171,Go First,Tue, 2 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5954
+172,Go First,Tue, 2 Nov,22:30,00:40,2h 10m,New Delhi,Mumbai,Non,5954
+173,Go First,Tue, 2 Nov,02:40,04:55,2h 15m,New Delhi,Mumbai,Non,5954
+174,Go First,Tue, 2 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5954
+175,Go First,Tue, 2 Nov,19:40,21:55,2h 15m,New Delhi,Mumbai,Non,5954
+176,Go First,Tue, 2 Nov,21:00,23:15,2h 15m,New Delhi,Mumbai,Non,5954
+177,Go First,Tue, 2 Nov,10:30,12:50,2h 20m,New Delhi,Mumbai,Non,5954
+178,Go First,Tue, 2 Nov,15:00,17:30,2h 30m,New Delhi,Mumbai,Non,5954
+179,Go First,Tue, 2 Nov,17:55,20:25,2h 30m,New Delhi,Mumbai,Non,5954
+180,Go First,Tue, 2 Nov,06:00,10:40,4h 40m,New Delhi,Mumbai,1,5954
+181,Go First,Tue, 2 Nov,15:30,21:25,5h 55m,New Delhi,Mumbai,1,5954
+182,Go First,Tue, 2 Nov,11:50,18:10,6h 20m,New Delhi,Mumbai,1,5954
+183,Go First,Tue, 2 Nov,06:00,12:30,6h 30m,New Delhi,Mumbai,1,5954
+184,Go First,Tue, 2 Nov,09:00,15:55,6h 55m,New Delhi,Mumbai,1,5954
+185,Vistara,Tue, 2 Nov,06:00,08:00,2h 00m,New Delhi,Mumbai,Non,5955
+186,Air India,Tue, 2 Nov,07:00,09:05,2h 05m,New Delhi,Mumbai,Non,5955
+187,IndiGo,Tue, 2 Nov,06:30,08:40,2h 10m,New Delhi,Mumbai,Non,5955
+188,IndiGo,Tue, 2 Nov,07:15,09:25,2h 10m,New Delhi,Mumbai,Non,5955
+189,Air India,Tue, 2 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5955
+190,IndiGo,Tue, 2 Nov,08:10,10:20,2h 10m,New Delhi,Mumbai,Non,5955
+191,Vistara,Tue, 2 Nov,09:30,11:40,2h 10m,New Delhi,Mumbai,Non,5955
+192,Air India,Tue, 2 Nov,10:40,12:50,2h 10m,New Delhi,Mumbai,Non,5955
+193,IndiGo,Tue, 2 Nov,12:00,14:10,2h 10m,New Delhi,Mumbai,Non,5955
+194,Vistara,Tue, 2 Nov,12:50,15:00,2h 10m,New Delhi,Mumbai,Non,5955
+195,Vistara,Tue, 2 Nov,15:30,17:40,2h 10m,New Delhi,Mumbai,Non,5955
+196,Vistara,Tue, 2 Nov,16:55,19:05,2h 10m,New Delhi,Mumbai,Non,5955
+197,Vistara,Tue, 2 Nov,19:50,22:00,2h 10m,New Delhi,Mumbai,Non,5955
+198,IndiGo,Tue, 2 Nov,23:15,01:25,2h 10m,New Delhi,Mumbai,Non,5955
+199,IndiGo,Tue, 2 Nov,01:05,03:20,2h 15m,New Delhi,Mumbai,Non,5955
+200,SpiceJet,Tue, 2 Nov,07:20,09:35,2h 15m,New Delhi,Mumbai,Non,5955
+201,Vistara,Tue, 2 Nov,07:30,09:45,2h 15m,New Delhi,Mumbai,Non,5955
+202,IndiGo,Tue, 2 Nov,09:30,11:45,2h 15m,New Delhi,Mumbai,Non,5955
+203,Vistara,Tue, 2 Nov,10:20,12:35,2h 15m,New Delhi,Mumbai,Non,5955
+204,IndiGo,Tue, 2 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5955
+205,IndiGo,Tue, 2 Nov,18:35,20:50,2h 15m,New Delhi,Mumbai,Non,5955
+206,SpiceJet,Tue, 2 Nov,18:50,21:05,2h 15m,New Delhi,Mumbai,Non,5955
+207,Air India,Tue, 2 Nov,19:00,21:15,2h 15m,New Delhi,Mumbai,Non,5955
+208,SpiceJet,Tue, 2 Nov,06:30,08:50,2h 20m,New Delhi,Mumbai,Non,5955
+209,IndiGo,Tue, 2 Nov,08:45,11:05,2h 20m,New Delhi,Mumbai,Non,5955
+210,Vistara,Tue, 2 Nov,08:50,11:10,2h 20m,New Delhi,Mumbai,Non,5955
+211,IndiGo,Tue, 2 Nov,10:45,13:05,2h 20m,New Delhi,Mumbai,Non,5955
+212,Vistara,Tue, 2 Nov,11:40,14:00,2h 20m,New Delhi,Mumbai,Non,5955
+213,Vistara,Tue, 2 Nov,17:45,20:05,2h 20m,New Delhi,Mumbai,Non,5955
+214,Vistara,Tue, 2 Nov,18:55,21:15,2h 20m,New Delhi,Mumbai,Non,5955
+215,SpiceJet,Tue, 2 Nov,19:45,22:05,2h 20m,New Delhi,Mumbai,Non,5955
+216,Air India,Tue, 2 Nov,15:05,18:15,3h 10m,New Delhi,Mumbai,1,5955
+217,SpiceJet,Tue, 2 Nov,19:00,23:50,4h 50m,New Delhi,Mumbai,1,5955
+218,IndiGo,Tue, 2 Nov,12:55,17:50,4h 55m,New Delhi,Mumbai,1,5955
+219,IndiGo,Tue, 2 Nov,05:30,10:55,5h 25m,New Delhi,Mumbai,1,5955
+220,SpiceJet,Tue, 2 Nov,11:20,17:20,6h 00m,New Delhi,Mumbai,1,5955
+221,IndiGo,Tue, 2 Nov,07:20,14:50,7h 30m,New Delhi,Mumbai,1,5955
+222,IndiGo,Tue, 2 Nov,12:55,20:45,7h 50m,New Delhi,Mumbai,1,5955
+223,IndiGo,Tue, 2 Nov,07:25,16:05,8h 40m,New Delhi,Mumbai,1,5955
+224,IndiGo,Tue, 2 Nov,06:05,16:05,10h 00m,New Delhi,Mumbai,1,5955
+225,IndiGo,Tue, 2 Nov,21:50,08:15,10h 25m,New Delhi,Mumbai,1,5955
+226,SpiceJet,Tue, 2 Nov,19:00,10:35,15h 35m,New Delhi,Mumbai,1,5955
+227,SpiceJet,Tue, 2 Nov,15:00,12:50,21h 50m,New Delhi,Mumbai,1,5955
+228,Air Asia,Tue, 2 Nov,04:25,06:35,2h 10m,New Delhi,Mumbai,Non,5956
+229,Air Asia,Tue, 2 Nov,20:00,22:15,2h 15m,New Delhi,Mumbai,Non,5956
+230,IndiGo,Tue, 2 Nov,17:15,19:25,2h 10m,New Delhi,Mumbai,Non,6375
+231,Air India,Tue, 2 Nov,20:00,22:10,2h 10m,New Delhi,Mumbai,Non,6375
+232,Vistara,Tue, 2 Nov,20:40,22:50,2h 10m,New Delhi,Mumbai,Non,6375
+233,Vistara,Tue, 2 Nov,21:40,23:50,2h 10m,New Delhi,Mumbai,Non,6375
+234,IndiGo,Tue, 2 Nov,05:15,10:05,4h 50m,New Delhi,Mumbai,1,6443
+235,IndiGo,Tue, 2 Nov,11:25,20:20,8h 55m,New Delhi,Mumbai,1,6443
+236,IndiGo,Tue, 2 Nov,21:15,23:30,2h 15m,New Delhi,Mumbai,Non,6585
+237,IndiGo,Tue, 2 Nov,21:20,07:05,9h 45m,New Delhi,Mumbai,1,6932
+238,Air India,Tue, 2 Nov,19:00,15:50,20h 50m,New Delhi,Mumbai,1,7296
+239,IndiGo,Tue, 2 Nov,11:25,16:40,5h 15m,New Delhi,Mumbai,1,7420
+240,IndiGo,Tue, 2 Nov,06:40,16:40,10h 00m,New Delhi,Mumbai,1,7420
+241,Air India,Tue, 2 Nov,05:55,23:25,17h 30m,New Delhi,Mumbai,1,8098
+242,Air India,Tue, 2 Nov,08:40,09:45,25h 05m,New Delhi,Mumbai,1,8098
+243,Air India,Tue, 2 Nov,11:55,15:50,3h 55m,New Delhi,Mumbai,1,8160
+244,Air India,Tue, 2 Nov,13:20,17:50,4h 30m,New Delhi,Mumbai,1,8160
+245,Air India,Tue, 2 Nov,06:05,15:50,9h 45m,New Delhi,Mumbai,1,8160
+246,IndiGo,Tue, 2 Nov,16:00,18:15,2h 15m,New Delhi,Mumbai,Non,8370
+247,IndiGo,Tue, 2 Nov,04:45,07:10,2h 25m,New Delhi,Mumbai,Non,8370
+248,IndiGo,Tue, 2 Nov,18:30,23:10,4h 40m,New Delhi,Mumbai,1,8396
+249,IndiGo,Tue, 2 Nov,13:50,19:50,6h 00m,New Delhi,Mumbai,1,8396
+250,Air India,Tue, 2 Nov,08:40,23:25,14h 45m,New Delhi,Mumbai,1,8413
+251,IndiGo,Tue, 2 Nov,09:35,14:35,5h 00m,New Delhi,Mumbai,1,8423
+252,IndiGo,Tue, 2 Nov,09:35,17:50,8h 15m,New Delhi,Mumbai,1,8423
+253,Vistara,Tue, 2 Nov,17:10,15:25,22h 15m,New Delhi,Mumbai,1,9000
+254,Vistara,Tue, 2 Nov,13:40,15:25,25h 45m,New Delhi,Mumbai,1,9053
+255,Vistara,Tue, 2 Nov,17:10,21:35,4h 25m,New Delhi,Mumbai,1,9105
+256,Vistara,Tue, 2 Nov,13:40,21:35,7h 55m,New Delhi,Mumbai,1,9158
+257,Vistara,Tue, 2 Nov,17:40,23:00,5h 20m,New Delhi,Mumbai,1,9840
+258,Vistara,Tue, 2 Nov,14:45,23:00,8h 15m,New Delhi,Mumbai,1,9840
+259,Vistara,Tue, 2 Nov,20:35,09:55,13h 20m,New Delhi,Mumbai,1,9840
+260,Vistara,Tue, 2 Nov,07:05,23:00,15h 55m,New Delhi,Mumbai,1,9840
+261,Vistara,Tue, 2 Nov,17:40,09:55,16h 15m,New Delhi,Mumbai,1,9840
+262,Vistara,Tue, 2 Nov,14:45,09:55,19h 10m,New Delhi,Mumbai,1,9840
+263,Vistara,Tue, 2 Nov,20:35,23:00,26h 25m,New Delhi,Mumbai,1,9840
+264,Vistara,Tue, 2 Nov,07:05,09:55,26h 50m,New Delhi,Mumbai,1,9840
+265,Air India,Tue, 2 Nov,06:00,16:25,10h 25m,New Delhi,Mumbai,3,9905
+266,Air India,Tue, 2 Nov,12:50,19:15,6h 25m,New Delhi,Mumbai,1,9988
+267,Vistara,Tue, 2 Nov,13:40,15:15,25h 35m,New Delhi,Mumbai,1,9988
+268,IndiGo,Tue, 2 Nov,12:55,23:25,10h 30m,New Delhi,Mumbai,1,10103
+269,IndiGo,Tue, 2 Nov,18:00,22:25,4h 25m,New Delhi,Mumbai,1,10349
+270,IndiGo,Tue, 2 Nov,22:15,05:55,7h 40m,New Delhi,Mumbai,1,10349
+271,IndiGo,Tue, 2 Nov,20:20,05:55,9h 35m,New Delhi,Mumbai,1,10349
+272,IndiGo,Tue, 2 Nov,22:15,08:25,10h 10m,New Delhi,Mumbai,1,10349
+273,Air India,Tue, 2 Nov,10:55,22:25,11h 30m,New Delhi,Mumbai,1,10470
+274,Air India,Tue, 2 Nov,10:55,08:45,21h 50m,New Delhi,Mumbai,1,10470
+275,Go First,Tue, 2 Nov,09:10,16:15,7h 05m,New Delhi,Mumbai,1,10549
+276,IndiGo,Tue, 2 Nov,13:30,20:20,6h 50m,New Delhi,Mumbai,1,10838
+277,IndiGo,Tue, 2 Nov,10:15,18:05,7h 50m,New Delhi,Mumbai,1,10838
+278,IndiGo,Tue, 2 Nov,13:30,22:15,8h 45m,New Delhi,Mumbai,1,10838
+279,IndiGo,Tue, 2 Nov,13:30,23:10,9h 40m,New Delhi,Mumbai,1,10838
+280,IndiGo,Tue, 2 Nov,11:25,22:15,10h 50m,New Delhi,Mumbai,1,10838
+281,Go First,Tue, 2 Nov,10:45,18:20,7h 35m,New Delhi,Mumbai,1,10839
+282,Go First,Tue, 2 Nov,10:45,19:40,8h 55m,New Delhi,Mumbai,1,10839
+283,Go First,Tue, 2 Nov,19:40,02:00,6h 20m,New Delhi,Mumbai,1,10863
+284,Air India,Tue, 2 Nov,12:50,07:55,19h 05m,New Delhi,Mumbai,1,10933
+285,Air India,Tue, 2 Nov,10:55,16:35,5h 40m,New Delhi,Mumbai,1,11100
+286,Go First,Tue, 2 Nov,09:00,17:00,8h 00m,New Delhi,Mumbai,1,11153
+287,Air India,Tue, 2 Nov,14:30,16:25,25h 55m,New Delhi,Mumbai,1,11401
+288,Air India,Tue, 2 Nov,07:05,13:25,6h 20m,New Delhi,Mumbai,1,11415
+289,Vistara,Tue, 2 Nov,11:10,23:10,12h 00m,New Delhi,Mumbai,1,11625
+290,Go First,Tue, 2 Nov,10:45,17:00,6h 15m,New Delhi,Mumbai,1,11731
+291,Vistara,Tue, 2 Nov,16:05,21:50,5h 45m,New Delhi,Mumbai,1,12150
+292,Vistara,Tue, 2 Nov,17:35,23:25,5h 50m,New Delhi,Mumbai,1,12150
+293,Vistara,Tue, 2 Nov,14:15,20:15,6h 00m,New Delhi,Mumbai,1,12150
+294,Vistara,Tue, 2 Nov,06:15,13:15,7h 00m,New Delhi,Mumbai,1,12150
+295,Vistara,Tue, 2 Nov,16:05,23:25,7h 20m,New Delhi,Mumbai,1,12150
+296,Vistara,Tue, 2 Nov,14:15,21:50,7h 35m,New Delhi,Mumbai,1,12150
+297,Vistara,Tue, 2 Nov,14:15,23:25,9h 10m,New Delhi,Mumbai,1,12150
+298,Vistara,Tue, 2 Nov,20:40,08:15,11h 35m,New Delhi,Mumbai,1,12150
+299,Vistara,Tue, 2 Nov,08:05,20:15,12h 10m,New Delhi,Mumbai,1,12150
+300,Vistara,Tue, 2 Nov,19:50,08:15,12h 25m,New Delhi,Mumbai,1,12150
+301,Vistara,Tue, 2 Nov,20:40,10:15,13h 35m,New Delhi,Mumbai,1,12150
+302,Vistara,Tue, 2 Nov,08:05,21:50,13h 45m,New Delhi,Mumbai,1,12150
+303,Vistara,Tue, 2 Nov,06:15,20:15,14h 00m,New Delhi,Mumbai,1,12150
+304,Vistara,Tue, 2 Nov,19:50,10:15,14h 25m,New Delhi,Mumbai,1,12150
+305,Vistara,Tue, 2 Nov,17:35,08:15,14h 40m,New Delhi,Mumbai,1,12150
+306,Vistara,Tue, 2 Nov,20:40,11:25,14h 45m,New Delhi,Mumbai,1,12150
+307,Vistara,Tue, 2 Nov,08:05,23:25,15h 20m,New Delhi,Mumbai,1,12150
+308,Vistara,Tue, 2 Nov,06:15,21:50,15h 35m,New Delhi,Mumbai,1,12150
+309,Vistara,Tue, 2 Nov,19:50,11:25,15h 35m,New Delhi,Mumbai,1,12150
+310,Vistara,Tue, 2 Nov,16:05,08:15,16h 10m,New Delhi,Mumbai,1,12150
+311,Vistara,Tue, 2 Nov,20:40,13:15,16h 35m,New Delhi,Mumbai,1,12150
+312,Vistara,Tue, 2 Nov,17:35,10:15,16h 40m,New Delhi,Mumbai,1,12150
+313,Vistara,Tue, 2 Nov,06:15,23:25,17h 10m,New Delhi,Mumbai,1,12150
+314,Vistara,Tue, 2 Nov,19:50,13:15,17h 25m,New Delhi,Mumbai,1,12150
+315,Vistara,Tue, 2 Nov,17:35,11:25,17h 50m,New Delhi,Mumbai,1,12150
+316,Vistara,Tue, 2 Nov,14:15,08:15,18h 00m,New Delhi,Mumbai,1,12150
+317,Air India,Tue, 2 Nov,18:40,17:25,22h 45m,New Delhi,Mumbai,1,12176
+318,Go First,Tue, 2 Nov,11:30,17:00,5h 30m,New Delhi,Mumbai,1,12309
+319,Go First,Tue, 2 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,12659
+320,Air India,Tue, 2 Nov,21:15,13:45,16h 30m,New Delhi,Mumbai,1,13055
+321,Vistara,Tue, 2 Nov,18:40,14:45,20h 05m,New Delhi,Mumbai,1,13673
+322,Vistara,Tue, 2 Nov,11:10,14:45,27h 35m,New Delhi,Mumbai,1,13988
+323,Air India,Tue, 2 Nov,18:30,13:25,18h 55m,New Delhi,Mumbai,1,14040
+324,SpiceJet,Tue, 2 Nov,12:00,13:10,25h 10m,New Delhi,Mumbai,1,15458
+325,Air India,Wed, 3 Nov,07:00,09:05,2h 05m,New Delhi,Mumbai,Non,4931
+326,Air India,Wed, 3 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,4931
+327,Air India,Wed, 3 Nov,10:40,12:50,2h 10m,New Delhi,Mumbai,Non,4931
+328,Air India,Wed, 3 Nov,09:00,11:15,2h 15m,New Delhi,Mumbai,Non,4931
+329,Air India,Wed, 3 Nov,15:05,18:15,3h 10m,New Delhi,Mumbai,1,4931
+330,Air India,Wed, 3 Nov,17:50,21:35,3h 45m,New Delhi,Mumbai,1,4931
+331,Air Asia,Wed, 3 Nov,21:25,06:45,9h 20m,New Delhi,Mumbai,1,5953
+332,Air Asia,Wed, 3 Nov,21:25,07:15,9h 50m,New Delhi,Mumbai,1,5953
+333,Air Asia,Wed, 3 Nov,20:45,06:45,10h 00m,New Delhi,Mumbai,1,5953
+334,Air Asia,Wed, 3 Nov,20:45,07:15,10h 30m,New Delhi,Mumbai,1,5953
+335,Air Asia,Wed, 3 Nov,18:35,06:45,12h 10m,New Delhi,Mumbai,1,5953
+336,Air Asia,Wed, 3 Nov,18:35,07:15,12h 40m,New Delhi,Mumbai,1,5953
+337,Air Asia,Wed, 3 Nov,22:10,12:25,14h 15m,New Delhi,Mumbai,1,5953
+338,Go First,Wed, 3 Nov,07:00,09:10,2h 10m,New Delhi,Mumbai,Non,5954
+339,Go First,Wed, 3 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5954
+340,Go First,Wed, 3 Nov,02:40,04:55,2h 15m,New Delhi,Mumbai,Non,5954
+341,Go First,Wed, 3 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5954
+342,Go First,Wed, 3 Nov,19:40,21:55,2h 15m,New Delhi,Mumbai,Non,5954
+343,Go First,Wed, 3 Nov,21:00,23:15,2h 15m,New Delhi,Mumbai,Non,5954
+344,Go First,Wed, 3 Nov,10:30,12:50,2h 20m,New Delhi,Mumbai,Non,5954
+345,Go First,Wed, 3 Nov,15:00,17:30,2h 30m,New Delhi,Mumbai,Non,5954
+346,Go First,Wed, 3 Nov,17:55,20:25,2h 30m,New Delhi,Mumbai,Non,5954
+347,Go First,Wed, 3 Nov,06:00,10:40,4h 40m,New Delhi,Mumbai,1,5954
+348,Go First,Wed, 3 Nov,11:50,18:10,6h 20m,New Delhi,Mumbai,1,5954
+349,Go First,Wed, 3 Nov,09:00,15:55,6h 55m,New Delhi,Mumbai,1,5954
+350,Vistara,Wed, 3 Nov,06:00,08:00,2h 00m,New Delhi,Mumbai,Non,5955
+351,IndiGo,Wed, 3 Nov,06:30,08:40,2h 10m,New Delhi,Mumbai,Non,5955
+352,IndiGo,Wed, 3 Nov,07:15,09:25,2h 10m,New Delhi,Mumbai,Non,5955
+353,IndiGo,Wed, 3 Nov,08:10,10:20,2h 10m,New Delhi,Mumbai,Non,5955
+354,Vistara,Wed, 3 Nov,09:30,11:40,2h 10m,New Delhi,Mumbai,Non,5955
+355,Vistara,Wed, 3 Nov,12:50,15:00,2h 10m,New Delhi,Mumbai,Non,5955
+356,Vistara,Wed, 3 Nov,15:30,17:40,2h 10m,New Delhi,Mumbai,Non,5955
+357,Vistara,Wed, 3 Nov,16:55,19:05,2h 10m,New Delhi,Mumbai,Non,5955
+358,Vistara,Wed, 3 Nov,19:50,22:00,2h 10m,New Delhi,Mumbai,Non,5955
+359,IndiGo,Wed, 3 Nov,23:15,01:25,2h 10m,New Delhi,Mumbai,Non,5955
+360,IndiGo,Wed, 3 Nov,01:05,03:20,2h 15m,New Delhi,Mumbai,Non,5955
+361,SpiceJet,Wed, 3 Nov,07:20,09:35,2h 15m,New Delhi,Mumbai,Non,5955
+362,Vistara,Wed, 3 Nov,07:30,09:45,2h 15m,New Delhi,Mumbai,Non,5955
+363,Vistara,Wed, 3 Nov,10:20,12:35,2h 15m,New Delhi,Mumbai,Non,5955
+364,IndiGo,Wed, 3 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5955
+365,IndiGo,Wed, 3 Nov,18:35,20:50,2h 15m,New Delhi,Mumbai,Non,5955
+366,SpiceJet,Wed, 3 Nov,18:50,21:05,2h 15m,New Delhi,Mumbai,Non,5955
+367,SpiceJet,Wed, 3 Nov,06:30,08:50,2h 20m,New Delhi,Mumbai,Non,5955
+368,IndiGo,Wed, 3 Nov,08:45,11:05,2h 20m,New Delhi,Mumbai,Non,5955
+369,Vistara,Wed, 3 Nov,08:50,11:10,2h 20m,New Delhi,Mumbai,Non,5955
+370,IndiGo,Wed, 3 Nov,10:45,13:05,2h 20m,New Delhi,Mumbai,Non,5955
+371,Vistara,Wed, 3 Nov,11:40,14:00,2h 20m,New Delhi,Mumbai,Non,5955
+372,Vistara,Wed, 3 Nov,17:45,20:05,2h 20m,New Delhi,Mumbai,Non,5955
+373,Vistara,Wed, 3 Nov,18:55,21:15,2h 20m,New Delhi,Mumbai,Non,5955
+374,SpiceJet,Wed, 3 Nov,19:45,22:05,2h 20m,New Delhi,Mumbai,Non,5955
+375,SpiceJet,Wed, 3 Nov,19:00,23:50,4h 50m,New Delhi,Mumbai,1,5955
+376,IndiGo,Wed, 3 Nov,07:20,14:50,7h 30m,New Delhi,Mumbai,1,5955
+377,IndiGo,Wed, 3 Nov,12:55,20:45,7h 50m,New Delhi,Mumbai,1,5955
+378,IndiGo,Wed, 3 Nov,07:25,16:05,8h 40m,New Delhi,Mumbai,1,5955
+379,IndiGo,Wed, 3 Nov,06:05,16:05,10h 00m,New Delhi,Mumbai,1,5955
+380,IndiGo,Wed, 3 Nov,12:55,23:15,10h 20m,New Delhi,Mumbai,1,5955
+381,IndiGo,Wed, 3 Nov,21:50,08:15,10h 25m,New Delhi,Mumbai,1,5955
+382,SpiceJet,Wed, 3 Nov,19:00,10:35,15h 35m,New Delhi,Mumbai,1,5955
+383,SpiceJet,Wed, 3 Nov,15:00,12:50,21h 50m,New Delhi,Mumbai,1,5955
+384,Air Asia,Wed, 3 Nov,04:25,06:35,2h 10m,New Delhi,Mumbai,Non,5956
+385,Air Asia,Wed, 3 Nov,20:00,22:15,2h 15m,New Delhi,Mumbai,Non,5956
+386,IndiGo,Wed, 3 Nov,12:00,14:10,2h 10m,New Delhi,Mumbai,Non,6375
+387,IndiGo,Wed, 3 Nov,17:15,19:25,2h 10m,New Delhi,Mumbai,Non,6375
+388,Air India,Wed, 3 Nov,20:00,22:10,2h 10m,New Delhi,Mumbai,Non,6375
+389,Vistara,Wed, 3 Nov,20:40,22:50,2h 10m,New Delhi,Mumbai,Non,6375
+390,Vistara,Wed, 3 Nov,21:40,23:50,2h 10m,New Delhi,Mumbai,Non,6375
+391,IndiGo,Wed, 3 Nov,09:30,11:45,2h 15m,New Delhi,Mumbai,Non,6375
+392,IndiGo,Wed, 3 Nov,12:55,17:50,4h 55m,New Delhi,Mumbai,1,6428
+393,IndiGo,Wed, 3 Nov,21:20,07:05,9h 45m,New Delhi,Mumbai,1,6443
+394,IndiGo,Wed, 3 Nov,21:15,23:30,2h 15m,New Delhi,Mumbai,Non,6585
+395,Air India,Wed, 3 Nov,13:00,15:50,26h 50m,New Delhi,Mumbai,1,6751
+396,SpiceJet,Wed, 3 Nov,11:20,17:20,6h 00m,New Delhi,Mumbai,1,6901
+397,IndiGo,Wed, 3 Nov,13:50,19:50,6h 00m,New Delhi,Mumbai,1,7142
+398,Vistara,Wed, 3 Nov,13:40,15:15,25h 35m,New Delhi,Mumbai,1,7222
+399,Air India,Wed, 3 Nov,06:05,15:50,9h 45m,New Delhi,Mumbai,1,7296
+400,Air India,Wed, 3 Nov,19:00,15:50,20h 50m,New Delhi,Mumbai,1,7296
+401,IndiGo,Wed, 3 Nov,11:25,16:40,5h 15m,New Delhi,Mumbai,1,7420
+402,IndiGo,Wed, 3 Nov,05:30,10:55,5h 25m,New Delhi,Mumbai,1,7420
+403,IndiGo,Wed, 3 Nov,11:25,20:20,8h 55m,New Delhi,Mumbai,1,7420
+404,IndiGo,Wed, 3 Nov,06:40,16:40,10h 00m,New Delhi,Mumbai,1,7420
+405,IndiGo,Wed, 3 Nov,05:15,10:05,4h 50m,New Delhi,Mumbai,1,7908
+406,Vistara,Wed, 3 Nov,13:20,16:00,26h 40m,New Delhi,Mumbai,1,8213
+407,IndiGo,Wed, 3 Nov,16:00,18:15,2h 15m,New Delhi,Mumbai,Non,8370
+408,IndiGo,Wed, 3 Nov,04:45,07:10,2h 25m,New Delhi,Mumbai,Non,8370
+409,IndiGo,Wed, 3 Nov,18:30,23:10,4h 40m,New Delhi,Mumbai,1,8396
+410,Air India,Wed, 3 Nov,09:45,09:40,23h 55m,New Delhi,Mumbai,1,8597
+411,Air India,Wed, 3 Nov,09:45,23:20,13h 35m,New Delhi,Mumbai,1,8931
+412,Vistara,Wed, 3 Nov,17:10,15:25,22h 15m,New Delhi,Mumbai,1,9053
+413,Air India,Wed, 3 Nov,21:10,09:40,12h 30m,New Delhi,Mumbai,1,9135
+414,Air India,Wed, 3 Nov,08:10,09:40,25h 30m,New Delhi,Mumbai,1,9135
+415,Vistara,Wed, 3 Nov,17:10,21:35,4h 25m,New Delhi,Mumbai,1,9158
+416,IndiGo,Wed, 3 Nov,18:00,22:25,4h 25m,New Delhi,Mumbai,1,9373
+417,Air India,Wed, 3 Nov,08:10,23:20,15h 10m,New Delhi,Mumbai,1,9469
+418,Go First,Wed, 3 Nov,06:00,12:30,6h 30m,New Delhi,Mumbai,1,9551
+419,IndiGo,Wed, 3 Nov,17:55,23:15,5h 20m,New Delhi,Mumbai,1,9735
+420,Vistara,Wed, 3 Nov,17:40,23:00,5h 20m,New Delhi,Mumbai,1,9840
+421,Vistara,Wed, 3 Nov,13:40,21:35,7h 55m,New Delhi,Mumbai,1,9840
+422,Vistara,Wed, 3 Nov,14:45,23:00,8h 15m,New Delhi,Mumbai,1,9840
+423,Vistara,Wed, 3 Nov,20:35,09:55,13h 20m,New Delhi,Mumbai,1,9840
+424,Vistara,Wed, 3 Nov,07:05,23:00,15h 55m,New Delhi,Mumbai,1,9840
+425,Vistara,Wed, 3 Nov,17:40,09:55,16h 15m,New Delhi,Mumbai,1,9840
+426,Vistara,Wed, 3 Nov,14:45,09:55,19h 10m,New Delhi,Mumbai,1,9840
+427,Vistara,Wed, 3 Nov,20:35,23:00,26h 25m,New Delhi,Mumbai,1,9840
+428,Vistara,Wed, 3 Nov,07:05,09:55,26h 50m,New Delhi,Mumbai,1,9840
+429,Air India,Wed, 3 Nov,05:25,16:25,11h 00m,New Delhi,Mumbai,2,9905
+430,IndiGo,Wed, 3 Nov,12:55,23:25,10h 30m,New Delhi,Mumbai,1,10103
+431,Air India,Wed, 3 Nov,21:15,13:45,16h 30m,New Delhi,Mumbai,1,10226
+432,IndiGo,Wed, 3 Nov,10:15,18:05,7h 50m,New Delhi,Mumbai,1,10238
+433,Go First,Wed, 3 Nov,15:30,21:25,5h 55m,New Delhi,Mumbai,1,10339
+434,Go First,Wed, 3 Nov,19:40,02:00,6h 20m,New Delhi,Mumbai,1,10339
+435,IndiGo,Wed, 3 Nov,22:15,08:25,10h 10m,New Delhi,Mumbai,1,10349
+436,IndiGo,Wed, 3 Nov,13:30,20:20,6h 50m,New Delhi,Mumbai,1,10838
+437,IndiGo,Wed, 3 Nov,13:30,22:15,8h 45m,New Delhi,Mumbai,1,10838
+438,IndiGo,Wed, 3 Nov,13:30,23:10,9h 40m,New Delhi,Mumbai,1,10838
+439,IndiGo,Wed, 3 Nov,11:25,22:15,10h 50m,New Delhi,Mumbai,1,10838
+440,Air India,Wed, 3 Nov,09:45,21:05,11h 20m,New Delhi,Mumbai,1,10847
+441,Air India,Wed, 3 Nov,06:10,21:05,14h 55m,New Delhi,Mumbai,1,10847
+442,IndiGo,Wed, 3 Nov,22:15,05:55,7h 40m,New Delhi,Mumbai,1,11520
+443,IndiGo,Wed, 3 Nov,20:20,05:55,9h 35m,New Delhi,Mumbai,1,11520
+444,Go First,Wed, 3 Nov,09:10,16:15,7h 05m,New Delhi,Mumbai,1,11703
+445,Air India,Wed, 3 Nov,09:45,17:05,7h 20m,New Delhi,Mumbai,1,11766
+446,Air India,Wed, 3 Nov,07:05,13:25,6h 20m,New Delhi,Mumbai,1,11835
+447,Go First,Wed, 3 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,11977
+448,Vistara,Wed, 3 Nov,16:05,21:50,5h 45m,New Delhi,Mumbai,1,12150
+449,Vistara,Wed, 3 Nov,17:35,23:25,5h 50m,New Delhi,Mumbai,1,12150
+450,Vistara,Wed, 3 Nov,14:15,20:15,6h 00m,New Delhi,Mumbai,1,12150
+451,Vistara,Wed, 3 Nov,06:15,13:15,7h 00m,New Delhi,Mumbai,1,12150
+452,Vistara,Wed, 3 Nov,16:05,23:25,7h 20m,New Delhi,Mumbai,1,12150
+453,Vistara,Wed, 3 Nov,14:15,21:50,7h 35m,New Delhi,Mumbai,1,12150
+454,Vistara,Wed, 3 Nov,14:15,23:25,9h 10m,New Delhi,Mumbai,1,12150
+455,Vistara,Wed, 3 Nov,20:40,08:15,11h 35m,New Delhi,Mumbai,1,12150
+456,Vistara,Wed, 3 Nov,08:05,20:15,12h 10m,New Delhi,Mumbai,1,12150
+457,Vistara,Wed, 3 Nov,19:50,08:15,12h 25m,New Delhi,Mumbai,1,12150
+458,Vistara,Wed, 3 Nov,20:40,10:15,13h 35m,New Delhi,Mumbai,1,12150
+459,Vistara,Wed, 3 Nov,08:05,21:50,13h 45m,New Delhi,Mumbai,1,12150
+460,Vistara,Wed, 3 Nov,06:15,20:15,14h 00m,New Delhi,Mumbai,1,12150
+461,Vistara,Wed, 3 Nov,19:50,10:15,14h 25m,New Delhi,Mumbai,1,12150
+462,Vistara,Wed, 3 Nov,17:35,08:15,14h 40m,New Delhi,Mumbai,1,12150
+463,Vistara,Wed, 3 Nov,20:40,11:25,14h 45m,New Delhi,Mumbai,1,12150
+464,Vistara,Wed, 3 Nov,08:05,23:25,15h 20m,New Delhi,Mumbai,1,12150
+465,Vistara,Wed, 3 Nov,06:15,21:50,15h 35m,New Delhi,Mumbai,1,12150
+466,Vistara,Wed, 3 Nov,19:50,11:25,15h 35m,New Delhi,Mumbai,1,12150
+467,Vistara,Wed, 3 Nov,16:05,08:15,16h 10m,New Delhi,Mumbai,1,12150
+468,Vistara,Wed, 3 Nov,20:40,13:15,16h 35m,New Delhi,Mumbai,1,12150
+469,Vistara,Wed, 3 Nov,17:35,10:15,16h 40m,New Delhi,Mumbai,1,12150
+470,Vistara,Wed, 3 Nov,06:15,23:25,17h 10m,New Delhi,Mumbai,1,12150
+471,Vistara,Wed, 3 Nov,19:50,13:15,17h 25m,New Delhi,Mumbai,1,12150
+472,Vistara,Wed, 3 Nov,17:35,11:25,17h 50m,New Delhi,Mumbai,1,12150
+473,Air India,Wed, 3 Nov,20:40,17:05,20h 25m,New Delhi,Mumbai,1,12386
+474,Go First,Wed, 3 Nov,10:45,18:20,7h 35m,New Delhi,Mumbai,1,12519
+475,Go First,Wed, 3 Nov,10:45,19:40,8h 55m,New Delhi,Mumbai,1,12519
+476,Air India,Wed, 3 Nov,04:55,13:45,8h 50m,New Delhi,Mumbai,1,12740
+477,Vistara,Wed, 3 Nov,18:40,14:45,20h 05m,New Delhi,Mumbai,1,12833
+478,Air India,Wed, 3 Nov,06:05,17:05,11h 00m,New Delhi,Mumbai,1,12871
+479,Air India,Wed, 3 Nov,13:30,21:05,7h 35m,New Delhi,Mumbai,1,12990
+480,Air India,Wed, 3 Nov,20:40,08:05,11h 25m,New Delhi,Mumbai,1,13410
+481,Go First,Wed, 3 Nov,09:00,17:00,8h 00m,New Delhi,Mumbai,1,13725
+482,Vistara,Wed, 3 Nov,11:10,23:10,12h 00m,New Delhi,Mumbai,1,13830
+483,Go First,Wed, 3 Nov,11:30,17:00,5h 30m,New Delhi,Mumbai,1,15405
+484,Go First,Wed, 3 Nov,10:45,17:00,6h 15m,New Delhi,Mumbai,1,15405
+485,Air India,Thu, 4 Nov,07:00,09:05,2h 05m,New Delhi,Mumbai,Non,4931
+486,Air India,Thu, 4 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,4931
+487,Air India,Thu, 4 Nov,10:40,12:50,2h 10m,New Delhi,Mumbai,Non,4931
+488,Air India,Thu, 4 Nov,20:00,22:10,2h 10m,New Delhi,Mumbai,Non,4931
+489,Air India,Thu, 4 Nov,19:00,21:15,2h 15m,New Delhi,Mumbai,Non,4931
+490,Air India,Thu, 4 Nov,15:05,18:15,3h 10m,New Delhi,Mumbai,1,4931
+491,Air India,Thu, 4 Nov,19:00,15:50,20h 50m,New Delhi,Mumbai,1,5563
+492,Air Asia,Thu, 4 Nov,21:25,06:45,9h 20m,New Delhi,Mumbai,1,5953
+493,Air Asia,Thu, 4 Nov,21:25,07:15,9h 50m,New Delhi,Mumbai,1,5953
+494,Air Asia,Thu, 4 Nov,20:45,06:45,10h 00m,New Delhi,Mumbai,1,5953
+495,Air Asia,Thu, 4 Nov,20:45,07:15,10h 30m,New Delhi,Mumbai,1,5953
+496,Air Asia,Thu, 4 Nov,18:35,06:45,12h 10m,New Delhi,Mumbai,1,5953
+497,Air Asia,Thu, 4 Nov,18:35,07:15,12h 40m,New Delhi,Mumbai,1,5953
+498,Air Asia,Thu, 4 Nov,22:10,12:25,14h 15m,New Delhi,Mumbai,1,5953
+499,Go First,Thu, 4 Nov,07:00,09:10,2h 10m,New Delhi,Mumbai,Non,5954
+500,Go First,Thu, 4 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5954
+501,Go First,Thu, 4 Nov,02:40,04:55,2h 15m,New Delhi,Mumbai,Non,5954
+502,Go First,Thu, 4 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5954
+503,Go First,Thu, 4 Nov,19:40,21:55,2h 15m,New Delhi,Mumbai,Non,5954
+504,Go First,Thu, 4 Nov,21:00,23:15,2h 15m,New Delhi,Mumbai,Non,5954
+505,Go First,Thu, 4 Nov,10:30,12:50,2h 20m,New Delhi,Mumbai,Non,5954
+506,Go First,Thu, 4 Nov,15:00,17:30,2h 30m,New Delhi,Mumbai,Non,5954
+507,Go First,Thu, 4 Nov,17:55,20:25,2h 30m,New Delhi,Mumbai,Non,5954
+508,Go First,Thu, 4 Nov,06:00,10:40,4h 40m,New Delhi,Mumbai,1,5954
+509,Go First,Thu, 4 Nov,15:30,21:25,5h 55m,New Delhi,Mumbai,1,5954
+510,Go First,Thu, 4 Nov,11:50,18:10,6h 20m,New Delhi,Mumbai,1,5954
+511,Go First,Thu, 4 Nov,09:00,15:55,6h 55m,New Delhi,Mumbai,1,5954
+512,Go First,Thu, 4 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,5954
+513,Vistara,Thu, 4 Nov,06:00,08:00,2h 00m,New Delhi,Mumbai,Non,5955
+514,IndiGo,Thu, 4 Nov,06:30,08:40,2h 10m,New Delhi,Mumbai,Non,5955
+515,IndiGo,Thu, 4 Nov,07:15,09:25,2h 10m,New Delhi,Mumbai,Non,5955
+516,IndiGo,Thu, 4 Nov,08:10,10:20,2h 10m,New Delhi,Mumbai,Non,5955
+517,Vistara,Thu, 4 Nov,09:30,11:40,2h 10m,New Delhi,Mumbai,Non,5955
+518,IndiGo,Thu, 4 Nov,12:00,14:10,2h 10m,New Delhi,Mumbai,Non,5955
+519,Vistara,Thu, 4 Nov,12:50,15:00,2h 10m,New Delhi,Mumbai,Non,5955
+520,Vistara,Thu, 4 Nov,15:30,17:40,2h 10m,New Delhi,Mumbai,Non,5955
+521,Vistara,Thu, 4 Nov,16:55,19:05,2h 10m,New Delhi,Mumbai,Non,5955
+522,IndiGo,Thu, 4 Nov,17:15,19:25,2h 10m,New Delhi,Mumbai,Non,5955
+523,Vistara,Thu, 4 Nov,19:50,22:00,2h 10m,New Delhi,Mumbai,Non,5955
+524,Vistara,Thu, 4 Nov,20:40,22:50,2h 10m,New Delhi,Mumbai,Non,5955
+525,Vistara,Thu, 4 Nov,21:40,23:50,2h 10m,New Delhi,Mumbai,Non,5955
+526,IndiGo,Thu, 4 Nov,23:15,01:25,2h 10m,New Delhi,Mumbai,Non,5955
+527,IndiGo,Thu, 4 Nov,01:05,03:20,2h 15m,New Delhi,Mumbai,Non,5955
+528,SpiceJet,Thu, 4 Nov,07:20,09:35,2h 15m,New Delhi,Mumbai,Non,5955
+529,Vistara,Thu, 4 Nov,07:30,09:45,2h 15m,New Delhi,Mumbai,Non,5955
+530,IndiGo,Thu, 4 Nov,09:30,11:45,2h 15m,New Delhi,Mumbai,Non,5955
+531,Vistara,Thu, 4 Nov,10:20,12:35,2h 15m,New Delhi,Mumbai,Non,5955
+532,IndiGo,Thu, 4 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5955
+533,IndiGo,Thu, 4 Nov,18:35,20:50,2h 15m,New Delhi,Mumbai,Non,5955
+534,SpiceJet,Thu, 4 Nov,18:50,21:05,2h 15m,New Delhi,Mumbai,Non,5955
+535,IndiGo,Thu, 4 Nov,21:15,23:30,2h 15m,New Delhi,Mumbai,Non,5955
+536,SpiceJet,Thu, 4 Nov,06:30,08:50,2h 20m,New Delhi,Mumbai,Non,5955
+537,IndiGo,Thu, 4 Nov,08:45,11:05,2h 20m,New Delhi,Mumbai,Non,5955
+538,Vistara,Thu, 4 Nov,08:50,11:10,2h 20m,New Delhi,Mumbai,Non,5955
+539,IndiGo,Thu, 4 Nov,10:45,13:05,2h 20m,New Delhi,Mumbai,Non,5955
+540,Vistara,Thu, 4 Nov,11:40,14:00,2h 20m,New Delhi,Mumbai,Non,5955
+541,Vistara,Thu, 4 Nov,17:45,20:05,2h 20m,New Delhi,Mumbai,Non,5955
+542,Vistara,Thu, 4 Nov,18:55,21:15,2h 20m,New Delhi,Mumbai,Non,5955
+543,SpiceJet,Thu, 4 Nov,19:45,22:05,2h 20m,New Delhi,Mumbai,Non,5955
+544,IndiGo,Thu, 4 Nov,18:00,22:25,4h 25m,New Delhi,Mumbai,1,5955
+545,IndiGo,Thu, 4 Nov,18:30,23:10,4h 40m,New Delhi,Mumbai,1,5955
+546,SpiceJet,Thu, 4 Nov,19:00,23:50,4h 50m,New Delhi,Mumbai,1,5955
+547,IndiGo,Thu, 4 Nov,12:55,17:50,4h 55m,New Delhi,Mumbai,1,5955
+548,IndiGo,Thu, 4 Nov,05:30,10:55,5h 25m,New Delhi,Mumbai,1,5955
+549,IndiGo,Thu, 4 Nov,12:55,20:45,7h 50m,New Delhi,Mumbai,1,5955
+550,IndiGo,Thu, 4 Nov,07:25,16:05,8h 40m,New Delhi,Mumbai,1,5955
+551,IndiGo,Thu, 4 Nov,11:25,20:20,8h 55m,New Delhi,Mumbai,1,5955
+552,IndiGo,Thu, 4 Nov,21:20,07:05,9h 45m,New Delhi,Mumbai,1,5955
+553,IndiGo,Thu, 4 Nov,06:05,16:05,10h 00m,New Delhi,Mumbai,1,5955
+554,IndiGo,Thu, 4 Nov,21:50,08:15,10h 25m,New Delhi,Mumbai,1,5955
+555,SpiceJet,Thu, 4 Nov,19:00,10:35,15h 35m,New Delhi,Mumbai,1,5955
+556,SpiceJet,Thu, 4 Nov,15:00,12:50,21h 50m,New Delhi,Mumbai,1,5955
+557,Air Asia,Thu, 4 Nov,04:25,06:35,2h 10m,New Delhi,Mumbai,Non,5956
+558,Air Asia,Thu, 4 Nov,20:00,22:15,2h 15m,New Delhi,Mumbai,Non,5956
+559,IndiGo,Thu, 4 Nov,07:20,14:50,7h 30m,New Delhi,Mumbai,1,6443
+560,SpiceJet,Thu, 4 Nov,11:20,17:20,6h 00m,New Delhi,Mumbai,1,6585
+561,Air India,Thu, 4 Nov,11:55,15:50,3h 55m,New Delhi,Mumbai,1,6751
+562,Air India,Thu, 4 Nov,13:20,17:50,4h 30m,New Delhi,Mumbai,1,6751
+563,Air India,Thu, 4 Nov,05:55,23:25,17h 30m,New Delhi,Mumbai,1,7097
+564,IndiGo,Thu, 4 Nov,13:50,19:50,6h 00m,New Delhi,Mumbai,1,7142
+565,Vistara,Thu, 4 Nov,13:40,15:15,25h 35m,New Delhi,Mumbai,1,7222
+566,Air India,Thu, 4 Nov,06:05,15:50,9h 45m,New Delhi,Mumbai,1,7296
+567,IndiGo,Thu, 4 Nov,05:15,10:05,4h 50m,New Delhi,Mumbai,1,7420
+568,Vistara,Thu, 4 Nov,13:20,16:00,26h 40m,New Delhi,Mumbai,1,8213
+569,Air India,Thu, 4 Nov,12:50,19:15,6h 25m,New Delhi,Mumbai,1,8260
+570,IndiGo,Thu, 4 Nov,16:00,18:15,2h 15m,New Delhi,Mumbai,Non,8370
+571,IndiGo,Thu, 4 Nov,04:45,07:10,2h 25m,New Delhi,Mumbai,Non,8370
+572,IndiGo,Thu, 4 Nov,09:35,14:35,5h 00m,New Delhi,Mumbai,1,8423
+573,IndiGo,Thu, 4 Nov,09:35,17:50,8h 15m,New Delhi,Mumbai,1,8423
+574,Air India,Thu, 4 Nov,21:10,23:20,26h 10m,New Delhi,Mumbai,1,8816
+575,Vistara,Thu, 4 Nov,17:10,21:35,4h 25m,New Delhi,Mumbai,1,9000
+576,Vistara,Thu, 4 Nov,13:40,21:35,7h 55m,New Delhi,Mumbai,1,9053
+577,IndiGo,Thu, 4 Nov,11:25,16:40,5h 15m,New Delhi,Mumbai,1,9373
+578,IndiGo,Thu, 4 Nov,06:40,16:40,10h 00m,New Delhi,Mumbai,1,9373
+579,Air India,Thu, 4 Nov,18:40,17:25,22h 45m,New Delhi,Mumbai,1,9473
+580,Air India,Thu, 4 Nov,18:30,13:25,18h 55m,New Delhi,Mumbai,1,9555
+581,Air India,Thu, 4 Nov,05:15,16:25,11h 10m,New Delhi,Mumbai,2,9566
+582,Vistara,Thu, 4 Nov,17:10,15:25,22h 15m,New Delhi,Mumbai,1,9735
+583,Vistara,Thu, 4 Nov,13:40,15:25,25h 45m,New Delhi,Mumbai,1,9788
+584,Vistara,Thu, 4 Nov,17:40,23:00,5h 20m,New Delhi,Mumbai,1,9840
+585,Vistara,Thu, 4 Nov,14:45,23:00,8h 15m,New Delhi,Mumbai,1,9840
+586,Vistara,Thu, 4 Nov,20:35,09:55,13h 20m,New Delhi,Mumbai,1,9840
+587,Vistara,Thu, 4 Nov,07:05,23:00,15h 55m,New Delhi,Mumbai,1,9840
+588,Vistara,Thu, 4 Nov,17:40,09:55,16h 15m,New Delhi,Mumbai,1,9840
+589,Vistara,Thu, 4 Nov,14:45,09:55,19h 10m,New Delhi,Mumbai,1,9840
+590,Vistara,Thu, 4 Nov,20:35,23:00,26h 25m,New Delhi,Mumbai,1,9840
+591,Air India,Thu, 4 Nov,04:55,13:45,8h 50m,New Delhi,Mumbai,1,9892
+592,Go First,Thu, 4 Nov,19:40,02:00,6h 20m,New Delhi,Mumbai,1,9919
+593,Go First,Thu, 4 Nov,06:00,12:30,6h 30m,New Delhi,Mumbai,1,9919
+594,Air India,Thu, 4 Nov,21:15,08:35,11h 20m,New Delhi,Mumbai,1,9983
+595,Air India,Thu, 4 Nov,21:15,10:35,13h 20m,New Delhi,Mumbai,1,9983
+596,Air India,Thu, 4 Nov,13:30,08:35,19h 05m,New Delhi,Mumbai,1,9983
+597,Air India,Thu, 4 Nov,13:30,10:35,21h 05m,New Delhi,Mumbai,1,9983
+598,IndiGo,Thu, 4 Nov,12:55,23:25,10h 30m,New Delhi,Mumbai,1,10103
+599,IndiGo,Thu, 4 Nov,10:15,18:05,7h 50m,New Delhi,Mumbai,1,10238
+600,IndiGo,Thu, 4 Nov,22:15,08:25,10h 10m,New Delhi,Mumbai,1,10349
+601,Go First,Thu, 4 Nov,09:10,16:15,7h 05m,New Delhi,Mumbai,1,10549
+602,Air India,Thu, 4 Nov,09:45,17:05,7h 20m,New Delhi,Mumbai,1,10663
+603,Air India,Thu, 4 Nov,06:50,16:45,9h 55m,New Delhi,Mumbai,2,10663
+604,Air India,Thu, 4 Nov,06:05,17:05,11h 00m,New Delhi,Mumbai,1,10663
+605,IndiGo,Thu, 4 Nov,11:25,22:15,10h 50m,New Delhi,Mumbai,1,10785
+606,IndiGo,Thu, 4 Nov,13:30,20:20,6h 50m,New Delhi,Mumbai,1,10838
+607,IndiGo,Thu, 4 Nov,13:30,22:15,8h 45m,New Delhi,Mumbai,1,10838
+608,IndiGo,Thu, 4 Nov,13:30,23:10,9h 40m,New Delhi,Mumbai,1,10838
+609,Air India,Thu, 4 Nov,21:15,13:45,16h 30m,New Delhi,Mumbai,1,10844
+610,Air India,Thu, 4 Nov,20:15,12:25,16h 10m,New Delhi,Mumbai,1,11148
+611,Air India,Thu, 4 Nov,16:55,12:25,19h 30m,New Delhi,Mumbai,1,11687
+612,Air India,Thu, 4 Nov,20:40,17:05,20h 25m,New Delhi,Mumbai,1,12107
+613,Go First,Thu, 4 Nov,11:30,17:00,5h 30m,New Delhi,Mumbai,1,12309
+614,Go First,Thu, 4 Nov,10:45,17:00,6h 15m,New Delhi,Mumbai,1,12309
+615,Go First,Thu, 4 Nov,10:45,18:20,7h 35m,New Delhi,Mumbai,1,12519
+616,Go First,Thu, 4 Nov,10:45,19:40,8h 55m,New Delhi,Mumbai,1,12519
+617,Air India,Thu, 4 Nov,20:15,16:45,20h 30m,New Delhi,Mumbai,2,12871
+618,Go First,Thu, 4 Nov,09:00,17:00,8h 00m,New Delhi,Mumbai,1,12939
+619,Air India,Thu, 4 Nov,07:05,13:25,6h 20m,New Delhi,Mumbai,1,14040
+620,IndiGo,Thu, 4 Nov,22:15,05:55,7h 40m,New Delhi,Mumbai,1,15232
+621,IndiGo,Thu, 4 Nov,20:20,05:55,9h 35m,New Delhi,Mumbai,1,15232
+622,SpiceJet,Thu, 4 Nov,12:00,13:10,25h 10m,New Delhi,Mumbai,1,19762
+623,Air India,Fri, 5 Nov,07:00,09:05,2h 05m,New Delhi,Mumbai,Non,4931
+624,Air India,Fri, 5 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,4931
+625,Air India,Fri, 5 Nov,10:40,12:50,2h 10m,New Delhi,Mumbai,Non,4931
+626,Air India,Fri, 5 Nov,20:00,22:10,2h 10m,New Delhi,Mumbai,Non,4931
+627,Air India,Fri, 5 Nov,09:00,11:15,2h 15m,New Delhi,Mumbai,Non,4931
+628,Air India,Fri, 5 Nov,19:00,21:15,2h 15m,New Delhi,Mumbai,Non,4931
+629,Air India,Fri, 5 Nov,15:05,18:15,3h 10m,New Delhi,Mumbai,1,4931
+630,Air India,Fri, 5 Nov,17:50,21:35,3h 45m,New Delhi,Mumbai,1,4931
+631,Air Asia,Fri, 5 Nov,21:25,06:45,9h 20m,New Delhi,Mumbai,1,5953
+632,Air Asia,Fri, 5 Nov,21:25,07:15,9h 50m,New Delhi,Mumbai,1,5953
+633,Air Asia,Fri, 5 Nov,20:45,06:45,10h 00m,New Delhi,Mumbai,1,5953
+634,Air Asia,Fri, 5 Nov,20:45,07:15,10h 30m,New Delhi,Mumbai,1,5953
+635,Air Asia,Fri, 5 Nov,18:35,06:45,12h 10m,New Delhi,Mumbai,1,5953
+636,Air Asia,Fri, 5 Nov,18:35,07:15,12h 40m,New Delhi,Mumbai,1,5953
+637,Air Asia,Fri, 5 Nov,22:10,12:25,14h 15m,New Delhi,Mumbai,1,5953
+638,Go First,Fri, 5 Nov,07:00,09:10,2h 10m,New Delhi,Mumbai,Non,5954
+639,Go First,Fri, 5 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5954
+640,Go First,Fri, 5 Nov,22:30,00:40,2h 10m,New Delhi,Mumbai,Non,5954
+641,Go First,Fri, 5 Nov,02:40,04:55,2h 15m,New Delhi,Mumbai,Non,5954
+642,Go First,Fri, 5 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5954
+643,Go First,Fri, 5 Nov,19:40,21:55,2h 15m,New Delhi,Mumbai,Non,5954
+644,Go First,Fri, 5 Nov,21:00,23:15,2h 15m,New Delhi,Mumbai,Non,5954
+645,Go First,Fri, 5 Nov,10:30,12:50,2h 20m,New Delhi,Mumbai,Non,5954
+646,Go First,Fri, 5 Nov,15:00,17:30,2h 30m,New Delhi,Mumbai,Non,5954
+647,Go First,Fri, 5 Nov,17:55,20:25,2h 30m,New Delhi,Mumbai,Non,5954
+648,Go First,Fri, 5 Nov,09:00,15:55,6h 55m,New Delhi,Mumbai,1,5954
+649,Vistara,Fri, 5 Nov,06:00,08:00,2h 00m,New Delhi,Mumbai,Non,5955
+650,IndiGo,Fri, 5 Nov,06:30,08:40,2h 10m,New Delhi,Mumbai,Non,5955
+651,IndiGo,Fri, 5 Nov,07:15,09:25,2h 10m,New Delhi,Mumbai,Non,5955
+652,IndiGo,Fri, 5 Nov,08:10,10:20,2h 10m,New Delhi,Mumbai,Non,5955
+653,Vistara,Fri, 5 Nov,09:30,11:40,2h 10m,New Delhi,Mumbai,Non,5955
+654,IndiGo,Fri, 5 Nov,12:00,14:10,2h 10m,New Delhi,Mumbai,Non,5955
+655,Vistara,Fri, 5 Nov,12:50,15:00,2h 10m,New Delhi,Mumbai,Non,5955
+656,Vistara,Fri, 5 Nov,21:40,23:50,2h 10m,New Delhi,Mumbai,Non,5955
+657,IndiGo,Fri, 5 Nov,23:15,01:25,2h 10m,New Delhi,Mumbai,Non,5955
+658,IndiGo,Fri, 5 Nov,01:05,03:20,2h 15m,New Delhi,Mumbai,Non,5955
+659,SpiceJet,Fri, 5 Nov,07:20,09:35,2h 15m,New Delhi,Mumbai,Non,5955
+660,Vistara,Fri, 5 Nov,07:30,09:45,2h 15m,New Delhi,Mumbai,Non,5955
+661,Vistara,Fri, 5 Nov,10:20,12:35,2h 15m,New Delhi,Mumbai,Non,5955
+662,IndiGo,Fri, 5 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5955
+663,IndiGo,Fri, 5 Nov,18:35,20:50,2h 15m,New Delhi,Mumbai,Non,5955
+664,SpiceJet,Fri, 5 Nov,18:50,21:05,2h 15m,New Delhi,Mumbai,Non,5955
+665,SpiceJet,Fri, 5 Nov,06:30,08:50,2h 20m,New Delhi,Mumbai,Non,5955
+666,IndiGo,Fri, 5 Nov,08:45,11:05,2h 20m,New Delhi,Mumbai,Non,5955
+667,Vistara,Fri, 5 Nov,08:50,11:10,2h 20m,New Delhi,Mumbai,Non,5955
+668,IndiGo,Fri, 5 Nov,10:45,13:05,2h 20m,New Delhi,Mumbai,Non,5955
+669,SpiceJet,Fri, 5 Nov,19:45,22:05,2h 20m,New Delhi,Mumbai,Non,5955
+670,SpiceJet,Fri, 5 Nov,19:00,23:50,4h 50m,New Delhi,Mumbai,1,5955
+671,IndiGo,Fri, 5 Nov,12:55,17:50,4h 55m,New Delhi,Mumbai,1,5955
+672,IndiGo,Fri, 5 Nov,07:25,16:05,8h 40m,New Delhi,Mumbai,1,5955
+673,IndiGo,Fri, 5 Nov,21:20,07:05,9h 45m,New Delhi,Mumbai,1,5955
+674,IndiGo,Fri, 5 Nov,06:05,16:05,10h 00m,New Delhi,Mumbai,1,5955
+675,IndiGo,Fri, 5 Nov,21:50,08:15,10h 25m,New Delhi,Mumbai,1,5955
+676,SpiceJet,Fri, 5 Nov,19:00,10:35,15h 35m,New Delhi,Mumbai,1,5955
+677,Air Asia,Fri, 5 Nov,04:25,06:35,2h 10m,New Delhi,Mumbai,Non,5956
+678,Air Asia,Fri, 5 Nov,20:00,22:15,2h 15m,New Delhi,Mumbai,Non,5956
+679,Vistara,Fri, 5 Nov,15:30,17:40,2h 10m,New Delhi,Mumbai,Non,6060
+680,Vistara,Fri, 5 Nov,16:55,19:05,2h 10m,New Delhi,Mumbai,Non,6060
+681,Vistara,Fri, 5 Nov,19:50,22:00,2h 10m,New Delhi,Mumbai,Non,6060
+682,Vistara,Fri, 5 Nov,11:40,14:00,2h 20m,New Delhi,Mumbai,Non,6060
+683,Vistara,Fri, 5 Nov,17:45,20:05,2h 20m,New Delhi,Mumbai,Non,6060
+684,Vistara,Fri, 5 Nov,18:55,21:15,2h 20m,New Delhi,Mumbai,Non,6060
+685,IndiGo,Fri, 5 Nov,09:30,11:45,2h 15m,New Delhi,Mumbai,Non,6165
+686,Vistara,Fri, 5 Nov,20:40,22:50,2h 10m,New Delhi,Mumbai,Non,6375
+687,IndiGo,Fri, 5 Nov,21:15,23:30,2h 15m,New Delhi,Mumbai,Non,6375
+688,IndiGo,Fri, 5 Nov,17:15,19:25,2h 10m,New Delhi,Mumbai,Non,6585
+689,IndiGo,Fri, 5 Nov,12:55,23:15,10h 20m,New Delhi,Mumbai,1,6769
+690,SpiceJet,Fri, 5 Nov,11:20,17:20,6h 00m,New Delhi,Mumbai,1,6901
+691,IndiGo,Fri, 5 Nov,07:20,14:50,7h 30m,New Delhi,Mumbai,1,6932
+692,IndiGo,Fri, 5 Nov,12:55,20:45,7h 50m,New Delhi,Mumbai,1,6932
+693,IndiGo,Fri, 5 Nov,13:50,19:50,6h 00m,New Delhi,Mumbai,1,7142
+694,Air India,Fri, 5 Nov,06:05,15:50,9h 45m,New Delhi,Mumbai,1,7296
+695,IndiGo,Fri, 5 Nov,18:30,23:10,4h 40m,New Delhi,Mumbai,1,7420
+696,IndiGo,Fri, 5 Nov,11:25,20:20,8h 55m,New Delhi,Mumbai,1,7908
+697,Air India,Fri, 5 Nov,06:00,23:05,17h 05m,New Delhi,Mumbai,1,8024
+698,IndiGo,Fri, 5 Nov,16:00,18:15,2h 15m,New Delhi,Mumbai,Non,8370
+699,IndiGo,Fri, 5 Nov,04:45,07:10,2h 25m,New Delhi,Mumbai,Non,8370
+700,IndiGo,Fri, 5 Nov,11:25,16:40,5h 15m,New Delhi,Mumbai,1,8396
+701,IndiGo,Fri, 5 Nov,06:40,16:40,10h 00m,New Delhi,Mumbai,1,8396
+702,Air India,Fri, 5 Nov,08:10,09:40,25h 30m,New Delhi,Mumbai,1,8597
+703,Vistara,Fri, 5 Nov,13:40,15:15,25h 35m,New Delhi,Mumbai,1,8640
+704,Go First,Fri, 5 Nov,15:30,21:25,5h 55m,New Delhi,Mumbai,1,8869
+705,Go First,Fri, 5 Nov,19:40,02:00,6h 20m,New Delhi,Mumbai,1,8869
+706,IndiGo,Fri, 5 Nov,05:30,10:55,5h 25m,New Delhi,Mumbai,1,8885
+707,Air India,Fri, 5 Nov,21:10,09:40,12h 30m,New Delhi,Mumbai,1,9135
+708,Air India,Fri, 5 Nov,09:45,09:40,23h 55m,New Delhi,Mumbai,1,9135
+709,SpiceJet,Fri, 5 Nov,15:00,12:50,21h 50m,New Delhi,Mumbai,1,9184
+710,Air India,Fri, 5 Nov,08:10,23:20,15h 10m,New Delhi,Mumbai,1,9301
+711,Air India,Fri, 5 Nov,07:05,13:25,6h 20m,New Delhi,Mumbai,1,9555
+712,Vistara,Fri, 5 Nov,17:40,23:00,5h 20m,New Delhi,Mumbai,1,9840
+713,Vistara,Fri, 5 Nov,14:45,23:00,8h 15m,New Delhi,Mumbai,1,9840
+714,Vistara,Fri, 5 Nov,20:35,09:55,13h 20m,New Delhi,Mumbai,1,9840
+715,Air India,Fri, 5 Nov,09:45,23:20,13h 35m,New Delhi,Mumbai,1,9840
+716,Vistara,Fri, 5 Nov,07:05,23:00,15h 55m,New Delhi,Mumbai,1,9840
+717,Vistara,Fri, 5 Nov,17:40,09:55,16h 15m,New Delhi,Mumbai,1,9840
+718,Vistara,Fri, 5 Nov,14:45,09:55,19h 10m,New Delhi,Mumbai,1,9840
+719,Vistara,Fri, 5 Nov,20:35,23:00,26h 25m,New Delhi,Mumbai,1,9840
+720,Vistara,Fri, 5 Nov,07:05,09:55,26h 50m,New Delhi,Mumbai,1,9840
+721,Air India,Fri, 5 Nov,06:10,08:35,26h 25m,New Delhi,Mumbai,1,9983
+722,IndiGo,Fri, 5 Nov,17:55,23:15,5h 20m,New Delhi,Mumbai,1,9998
+723,IndiGo,Fri, 5 Nov,12:55,23:25,10h 30m,New Delhi,Mumbai,1,10103
+724,Air India,Fri, 5 Nov,06:10,21:05,14h 55m,New Delhi,Mumbai,1,10392
+725,Go First,Fri, 5 Nov,09:10,16:15,7h 05m,New Delhi,Mumbai,1,10549
+726,IndiGo,Fri, 5 Nov,18:00,22:25,4h 25m,New Delhi,Mumbai,1,10658
+727,IndiGo,Fri, 5 Nov,10:15,18:05,7h 50m,New Delhi,Mumbai,1,10733
+728,IndiGo,Fri, 5 Nov,11:25,22:15,10h 50m,New Delhi,Mumbai,1,10785
+729,IndiGo,Fri, 5 Nov,13:30,20:20,6h 50m,New Delhi,Mumbai,1,10838
+730,IndiGo,Fri, 5 Nov,13:30,22:15,8h 45m,New Delhi,Mumbai,1,10838
+731,IndiGo,Fri, 5 Nov,13:30,23:10,9h 40m,New Delhi,Mumbai,1,10838
+732,Air India,Fri, 5 Nov,18:40,17:25,22h 45m,New Delhi,Mumbai,1,10981
+733,Vistara,Fri, 5 Nov,13:20,18:20,5h 00m,New Delhi,Mumbai,1,11100
+734,Air India,Fri, 5 Nov,06:00,16:25,10h 25m,New Delhi,Mumbai,3,11246
+735,Air India,Fri, 5 Nov,21:15,08:35,11h 20m,New Delhi,Mumbai,1,11286
+736,Air India,Fri, 5 Nov,10:15,15:40,5h 25m,New Delhi,Mumbai,1,11310
+737,Air India,Fri, 5 Nov,19:00,15:50,20h 50m,New Delhi,Mumbai,1,11415
+738,Air India,Fri, 5 Nov,09:45,21:05,11h 20m,New Delhi,Mumbai,1,11695
+739,Air India,Fri, 5 Nov,18:30,13:25,18h 55m,New Delhi,Mumbai,1,11970
+740,Air India,Fri, 5 Nov,13:00,13:25,24h 25m,New Delhi,Mumbai,1,11970
+741,Go First,Fri, 5 Nov,11:30,17:00,5h 30m,New Delhi,Mumbai,1,12309
+742,Go First,Fri, 5 Nov,10:45,17:00,6h 15m,New Delhi,Mumbai,1,12309
+743,Air India,Fri, 5 Nov,13:30,08:35,19h 05m,New Delhi,Mumbai,1,12651
+744,Go First,Fri, 5 Nov,09:00,17:00,8h 00m,New Delhi,Mumbai,1,12939
+745,Air India,Fri, 5 Nov,13:30,21:05,7h 35m,New Delhi,Mumbai,1,13060
+746,Go First,Fri, 5 Nov,11:50,18:10,6h 20m,New Delhi,Mumbai,1,13919
+747,Air India,Fri, 5 Nov,11:00,13:45,26h 45m,New Delhi,Mumbai,1,14210
+748,IndiGo,Fri, 5 Nov,20:20,05:55,9h 35m,New Delhi,Mumbai,1,14250
+749,IndiGo,Fri, 5 Nov,22:15,05:55,7h 40m,New Delhi,Mumbai,1,14255
+750,IndiGo,Fri, 5 Nov,05:15,10:05,4h 50m,New Delhi,Mumbai,1,14744
+751,IndiGo,Fri, 5 Nov,22:15,08:25,10h 10m,New Delhi,Mumbai,1,14744
+752,Go First,Fri, 5 Nov,06:00,10:40,4h 40m,New Delhi,Mumbai,1,14853
+753,Go First,Fri, 5 Nov,06:00,12:30,6h 30m,New Delhi,Mumbai,1,14853
+754,Go First,Fri, 5 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,15495
+755,Go First,Fri, 5 Nov,10:45,18:20,7h 35m,New Delhi,Mumbai,1,16245
+756,Go First,Fri, 5 Nov,10:45,19:40,8h 55m,New Delhi,Mumbai,1,16245
+757,SpiceJet,Fri, 5 Nov,12:00,13:10,25h 10m,New Delhi,Mumbai,1,16298
+758,Vistara,Fri, 5 Nov,18:40,14:45,20h 05m,New Delhi,Mumbai,1,18555
+759,Air India,Fri, 5 Nov,10:35,16:45,6h 10m,New Delhi,Mumbai,1,20056
+760,Air India,Fri, 5 Nov,21:15,13:45,16h 30m,New Delhi,Mumbai,1,20930
+761,Air India,Fri, 5 Nov,10:55,16:35,5h 40m,New Delhi,Mumbai,1,21075
+762,Air India,Fri, 5 Nov,10:55,22:25,11h 30m,New Delhi,Mumbai,1,21075
+763,Air India,Fri, 5 Nov,10:55,08:45,21h 50m,New Delhi,Mumbai,1,21075
+764,Air India,Fri, 5 Nov,18:20,13:35,19h 15m,New Delhi,Mumbai,1,22431
+765,Vistara,Fri, 5 Nov,11:10,23:10,12h 00m,New Delhi,Mumbai,1,23910
+766,Air India,Fri, 5 Nov,12:45,13:35,24h 50m,New Delhi,Mumbai,1,26316
+767,Vistara,Fri, 5 Nov,11:10,14:45,27h 35m,New Delhi,Mumbai,1,29580
+768,Air India,Sat, 6 Nov,07:00,09:05,2h 05m,New Delhi,Mumbai,Non,4931
+769,Air India,Sat, 6 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,4931
+770,Air India,Sat, 6 Nov,10:40,12:50,2h 10m,New Delhi,Mumbai,Non,5416
+771,Air India,Sat, 6 Nov,09:00,11:15,2h 15m,New Delhi,Mumbai,Non,5416
+772,Air India,Sat, 6 Nov,15:05,18:15,3h 10m,New Delhi,Mumbai,1,5416
+773,Air Asia,Sat, 6 Nov,05:20,14:10,8h 50m,New Delhi,Mumbai,1,5953
+774,Air Asia,Sat, 6 Nov,22:10,12:25,14h 15m,New Delhi,Mumbai,1,5953
+775,Go First,Sat, 6 Nov,07:00,09:10,2h 10m,New Delhi,Mumbai,Non,5954
+776,Go First,Sat, 6 Nov,08:00,10:10,2h 10m,New Delhi,Mumbai,Non,5954
+777,Go First,Sat, 6 Nov,22:30,00:40,2h 10m,New Delhi,Mumbai,Non,5954
+778,Go First,Sat, 6 Nov,02:40,04:55,2h 15m,New Delhi,Mumbai,Non,5954
+779,Go First,Sat, 6 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5954
+780,Go First,Sat, 6 Nov,19:40,21:55,2h 15m,New Delhi,Mumbai,Non,5954
+781,Go First,Sat, 6 Nov,21:00,23:15,2h 15m,New Delhi,Mumbai,Non,5954
+782,Go First,Sat, 6 Nov,10:30,12:50,2h 20m,New Delhi,Mumbai,Non,5954
+783,Go First,Sat, 6 Nov,15:00,17:30,2h 30m,New Delhi,Mumbai,Non,5954
+784,Go First,Sat, 6 Nov,09:00,15:55,6h 55m,New Delhi,Mumbai,1,5954
+785,Vistara,Sat, 6 Nov,06:00,08:00,2h 00m,New Delhi,Mumbai,Non,5955
+786,IndiGo,Sat, 6 Nov,06:30,08:40,2h 10m,New Delhi,Mumbai,Non,5955
+787,IndiGo,Sat, 6 Nov,07:15,09:25,2h 10m,New Delhi,Mumbai,Non,5955
+788,IndiGo,Sat, 6 Nov,08:10,10:20,2h 10m,New Delhi,Mumbai,Non,5955
+789,Vistara,Sat, 6 Nov,09:30,11:40,2h 10m,New Delhi,Mumbai,Non,5955
+790,Vistara,Sat, 6 Nov,12:50,15:00,2h 10m,New Delhi,Mumbai,Non,5955
+791,Vistara,Sat, 6 Nov,15:30,17:40,2h 10m,New Delhi,Mumbai,Non,5955
+792,Vistara,Sat, 6 Nov,16:55,19:05,2h 10m,New Delhi,Mumbai,Non,5955
+793,Vistara,Sat, 6 Nov,19:50,22:00,2h 10m,New Delhi,Mumbai,Non,5955
+794,Air India,Sat, 6 Nov,20:00,22:10,2h 10m,New Delhi,Mumbai,Non,5955
+795,IndiGo,Sat, 6 Nov,23:15,01:25,2h 10m,New Delhi,Mumbai,Non,5955
+796,IndiGo,Sat, 6 Nov,01:05,03:20,2h 15m,New Delhi,Mumbai,Non,5955
+797,SpiceJet,Sat, 6 Nov,07:20,09:35,2h 15m,New Delhi,Mumbai,Non,5955
+798,Vistara,Sat, 6 Nov,07:30,09:45,2h 15m,New Delhi,Mumbai,Non,5955
+799,Vistara,Sat, 6 Nov,10:20,12:35,2h 15m,New Delhi,Mumbai,Non,5955
+800,IndiGo,Sat, 6 Nov,14:20,16:35,2h 15m,New Delhi,Mumbai,Non,5955
+801,IndiGo,Sat, 6 Nov,18:35,20:50,2h 15m,New Delhi,Mumbai,Non,5955
+802,Air India,Sat, 6 Nov,19:00,21:15,2h 15m,New Delhi,Mumbai,Non,5955
+803,SpiceJet,Sat, 6 Nov,06:30,08:50,2h 20m,New Delhi,Mumbai,Non,5955
+804,IndiGo,Sat, 6 Nov,08:45,11:05,2h 20m,New Delhi,Mumbai,Non,5955
+805,Vistara,Sat, 6 Nov,08:50,11:10,2h 20m,New Delhi,Mumbai,Non,5955
+806,IndiGo,Sat, 6 Nov,10:45,13:05,2h 20m,New Delhi,Mumbai,Non,5955
+807,Vistara,Sat, 6 Nov,17:45,20:05,2h 20m,New Delhi,Mumbai,Non,5955
+808,Vistara,Sat, 6 Nov,18:55,21:15,2h 20m,New Delhi,Mumbai,Non,5955
+809,Air Asia,Sat, 6 Nov,04:25,06:35,2h 10m,New Delhi,Mumbai,Non,5956
+810,Air Asia,Sat, 6 Nov,20:00,22:15,2h 15m,New Delhi,Mumbai,Non,5956
+811,Vistara,Sat, 6 Nov,11:40,14:00,2h 20m,New Delhi,Mumbai,Non,6060
+812,SpiceJet,Sat, 6 Nov,18:50,21:05,2h 15m,New Delhi,Mumbai,Non,6270
+813,Go First,Sat, 6 Nov,17:55,20:25,2h 30m,New Delhi,Mumbai,Non,6532
+814,IndiGo,Sat, 6 Nov,12:00,14:10,2h 10m,New Delhi,Mumbai,Non,6585
+815,Vistara,Sat, 6 Nov,20:40,22:50,2h 10m,New Delhi,Mumbai,Non,6690
+816,Vistara,Sat, 6 Nov,21:40,23:50,2h 10m,New Delhi,Mumbai,Non,6690
+817,IndiGo,Sat, 6 Nov,12:55,17:50,4h 55m,New Delhi,Mumbai,1,6848
+818,IndiGo,Sat, 6 Nov,09:30,11:45,2h 15m,New Delhi,Mumbai,Non,7110
+819,SpiceJet,Sat, 6 Nov,19:45,22:05,2h 20m,New Delhi,Mumbai,Non,7110
+820,IndiGo,Sat, 6 Nov,21:20,07:05,9h 45m,New Delhi,Mumbai,1,7420
+821,SpiceJet,Sat, 6 Nov,11:20,17:20,6h 00m,New Delhi,Mumbai,1,7657
+822,IndiGo,Sat, 6 Nov,11:25,20:20,8h 55m,New Delhi,Mumbai,1,7908
+823,Air Asia,Sat, 6 Nov,21:25,06:45,9h 20m,New Delhi,Mumbai,1,7926
+824,Air Asia,Sat, 6 Nov,21:25,07:15,9h 50m,New Delhi,Mumbai,1,7926
+825,Air Asia,Sat, 6 Nov,20:45,06:45,10h 00m,New Delhi,Mumbai,1,7926
+826,Air Asia,Sat, 6 Nov,20:45,07:15,10h 30m,New Delhi,Mumbai,1,7926
+827,Air India,Sat, 6 Nov,05:55,23:25,17h 30m,New Delhi,Mumbai,1,8023
+828,IndiGo,Sat, 6 Nov,17:15,19:25,2h 10m,New Delhi,Mumbai,Non,8370
+829,IndiGo,Sat, 6 Nov,16:00,18:15,2h 15m,New Delhi,Mumbai,Non,8370
+830,IndiGo,Sat, 6 Nov,04:45,07:10,2h 25m,New Delhi,Mumbai,Non,8370
+831,IndiGo,Sat, 6 Nov,11:25,16:40,5h 15m,New Delhi,Mumbai,1,8396
+832,IndiGo,Sat, 6 Nov,06:40,16:40,10h 00m,New Delhi,Mumbai,1,8396
+833,IndiGo,Sat, 6 Nov,09:35,14:35,5h 00m,New Delhi,Mumbai,1,8423
+834,IndiGo,Sat, 6 Nov,09:35,17:50,8h 15m,New Delhi,Mumbai,1,8423
+835,Air Asia,Sat, 6 Nov,18:35,06:45,12h 10m,New Delhi,Mumbai,1,8869
+836,Air Asia,Sat, 6 Nov,18:35,07:15,12h 40m,New Delhi,Mumbai,1,8869
+837,IndiGo,Sat, 6 Nov,07:20,14:50,7h 30m,New Delhi,Mumbai,1,8885
+838,IndiGo,Sat, 6 Nov,13:50,19:50,6h 00m,New Delhi,Mumbai,1,8916
+839,SpiceJet,Sat, 6 Nov,19:00,23:50,4h 50m,New Delhi,Mumbai,1,9079
+840,Go First,Sat, 6 Nov,15:30,21:25,5h 55m,New Delhi,Mumbai,1,9183
+841,IndiGo,Sat, 6 Nov,21:50,08:15,10h 25m,New Delhi,Mumbai,1,9473
+842,Air India,Sat, 6 Nov,21:10,09:40,12h 30m,New Delhi,Mumbai,1,9555
+843,Air India,Sat, 6 Nov,08:10,09:40,25h 30m,New Delhi,Mumbai,1,9555
+844,Vistara,Sat, 6 Nov,07:05,23:00,15h 55m,New Delhi,Mumbai,1,9840
+845,Vistara,Sat, 6 Nov,07:05,09:55,26h 50m,New Delhi,Mumbai,1,9840
+846,Vistara,Sat, 6 Nov,17:40,23:00,5h 20m,New Delhi,Mumbai,1,9945
+847,Vistara,Sat, 6 Nov,14:45,23:00,8h 15m,New Delhi,Mumbai,1,9945
+848,Vistara,Sat, 6 Nov,20:35,09:55,13h 20m,New Delhi,Mumbai,1,9945
+849,Vistara,Sat, 6 Nov,17:40,09:55,16h 15m,New Delhi,Mumbai,1,9945
+850,Vistara,Sat, 6 Nov,14:45,09:55,19h 10m,New Delhi,Mumbai,1,9945
+851,Air India,Sat, 6 Nov,09:45,09:40,23h 55m,New Delhi,Mumbai,1,9975
+852,Go First,Sat, 6 Nov,19:40,02:00,6h 20m,New Delhi,Mumbai,1,10023
+853,IndiGo,Sat, 6 Nov,12:55,23:25,10h 30m,New Delhi,Mumbai,1,10103
+854,IndiGo,Sat, 6 Nov,18:30,23:10,4h 40m,New Delhi,Mumbai,1,10349
+855,IndiGo,Sat, 6 Nov,05:30,10:55,5h 25m,New Delhi,Mumbai,1,10349
+856,Go First,Sat, 6 Nov,09:10,16:15,7h 05m,New Delhi,Mumbai,1,10549
+857,Vistara,Sat, 6 Nov,20:35,23:00,26h 25m,New Delhi,Mumbai,1,10680
+858,SpiceJet,Sat, 6 Nov,19:00,10:35,15h 35m,New Delhi,Mumbai,1,10759
+859,IndiGo,Sat, 6 Nov,13:30,20:20,6h 50m,New Delhi,Mumbai,1,10838
+860,IndiGo,Sat, 6 Nov,10:15,18:05,7h 50m,New Delhi,Mumbai,1,10838
+861,IndiGo,Sat, 6 Nov,13:30,22:15,8h 45m,New Delhi,Mumbai,1,10838
+862,IndiGo,Sat, 6 Nov,13:30,23:10,9h 40m,New Delhi,Mumbai,1,10838
+863,IndiGo,Sat, 6 Nov,11:25,22:15,10h 50m,New Delhi,Mumbai,1,10838
+864,Air India,Sat, 6 Nov,11:55,15:50,3h 55m,New Delhi,Mumbai,1,10870
+865,IndiGo,Sat, 6 Nov,12:55,20:45,7h 50m,New Delhi,Mumbai,1,10943
+866,IndiGo,Sat, 6 Nov,07:25,16:05,8h 40m,New Delhi,Mumbai,1,10943
+867,IndiGo,Sat, 6 Nov,06:05,16:05,10h 00m,New Delhi,Mumbai,1,10943
+868,Air India,Sat, 6 Nov,06:05,15:50,9h 45m,New Delhi,Mumbai,1,11415
+869,Air India,Sat, 6 Nov,12:50,07:55,19h 05m,New Delhi,Mumbai,1,11644
+870,IndiGo,Sat, 6 Nov,18:00,22:25,4h 25m,New Delhi,Mumbai,1,11814
+871,Air India,Sat, 6 Nov,07:05,13:25,6h 20m,New Delhi,Mumbai,1,11970
+872,Air India,Sat, 6 Nov,04:55,13:45,8h 50m,New Delhi,Mumbai,1,12560
+873,Vistara,Sat, 6 Nov,08:05,08:15,24h 10m,New Delhi,Mumbai,1,12570
+874,Vistara,Sat, 6 Nov,17:10,21:35,4h 25m,New Delhi,Mumbai,1,12623
+875,Vistara,Sat, 6 Nov,08:05,23:25,15h 20m,New Delhi,Mumbai,1,12885
+876,Vistara,Sat, 6 Nov,13:40,15:15,25h 35m,New Delhi,Mumbai,1,12921
+877,Vistara,Sat, 6 Nov,07:30,13:00,5h 30m,New Delhi,Mumbai,1,12990
+878,Vistara,Sat, 6 Nov,06:15,13:00,6h 45m,New Delhi,Mumbai,1,12990
+879,IndiGo,Sat, 6 Nov,21:15,23:30,2h 15m,New Delhi,Mumbai,Non,13095
+880,Vistara,Sat, 6 Nov,06:15,23:25,17h 10m,New Delhi,Mumbai,1,13305
+881,Vistara,Sat, 6 Nov,08:05,20:15,12h 10m,New Delhi,Mumbai,1,13463
+882,Vistara,Sat, 6 Nov,19:50,08:15,12h 25m,New Delhi,Mumbai,1,13515
+883,Vistara,Sat, 6 Nov,19:50,11:25,15h 35m,New Delhi,Mumbai,1,13515
+884,Vistara,Sat, 6 Nov,06:15,13:15,7h 00m,New Delhi,Mumbai,1,13568
+885,IndiGo,Sat, 6 Nov,20:20,05:55,9h 35m,New Delhi,Mumbai,1,13620
+886,IndiGo,Sat, 6 Nov,22:15,05:55,7h 40m,New Delhi,Mumbai,1,13767
+887,Vistara,Sat, 6 Nov,13:20,18:20,5h 00m,New Delhi,Mumbai,1,13883
+888,Vistara,Sat, 6 Nov,06:15,20:15,14h 00m,New Delhi,Mumbai,1,13883
+889,Vistara,Sat, 6 Nov,13:40,21:35,7h 55m,New Delhi,Mumbai,1,13988
+890,Vistara,Sat, 6 Nov,08:05,21:50,13h 45m,New Delhi,Mumbai,1,13988
+891,Vistara,Sat, 6 Nov,20:40,08:15,11h 35m,New Delhi,Mumbai,1,14040
+892,Vistara,Sat, 6 Nov,17:35,08:15,14h 40m,New Delhi,Mumbai,1,14040
+893,Vistara,Sat, 6 Nov,20:40,11:25,14h 45m,New Delhi,Mumbai,1,14040
+894,Vistara,Sat, 6 Nov,17:35,11:25,17h 50m,New Delhi,Mumbai,1,14040
+895,Go First,Sat, 6 Nov,09:15,18:10,8h 55m,New Delhi,Mumbai,1,14129
+896,IndiGo,Sat, 6 Nov,22:15,08:25,10h 10m,New Delhi,Mumbai,1,14255
+897,Vistara,Sat, 6 Nov,17:35,23:25,5h 50m,New Delhi,Mumbai,1,14355
+898,Vistara,Sat, 6 Nov,07:30,20:20,12h 50m,New Delhi,Mumbai,1,14355
+899,Vistara,Sat, 6 Nov,06:15,20:20,14h 05m,New Delhi,Mumbai,1,14355
+900,Vistara,Sat, 6 Nov,06:15,21:50,15h 35m,New Delhi,Mumbai,1,14408
+901,SpiceJet,Sat, 6 Nov,15:00,12:50,21h 50m,New Delhi,Mumbai,1,14540
+902,Go First,Sat, 6 Nov,11:30,17:00,5h 30m,New Delhi,Mumbai,1,14565
+903,IndiGo,Sat, 6 Nov,05:15,10:05,4h 50m,New Delhi,Mumbai,1,14744
+904,Vistara,Sat, 6 Nov,16:05,08:15,16h 10m,New Delhi,Mumbai,1,14775
+905,Vistara,Sat, 6 Nov,14:15,08:15,18h 00m,New Delhi,Mumbai,1,14775
+906,Go First,Sat, 6 Nov,06:00,10:40,4h 40m,New Delhi,Mumbai,1,14853
+907,Go First,Sat, 6 Nov,06:00,12:30,6h 30m,New Delhi,Mumbai,1,14853
+908,Vistara,Sat, 6 Nov,16:05,23:25,7h 20m,New Delhi,Mumbai,1,15090
+909,Vistara,Sat, 6 Nov,14:15,23:25,9h 10m,New Delhi,Mumbai,1,15090
+910,Vistara,Sat, 6 Nov,19:50,13:15,17h 25m,New Delhi,Mumbai,1,15458
+911,Air India,Sat, 6 Nov,18:40,17:25,22h 45m,New Delhi,Mumbai,1,15615
+912,Vistara,Sat, 6 Nov,14:15,20:15,6h 00m,New Delhi,Mumbai,1,15668
+913,Air India,Sat, 6 Nov,13:20,17:50,4h 30m,New Delhi,Mumbai,1,15825
+914,Vistara,Sat, 6 Nov,13:20,16:00,26h 40m,New Delhi,Mumbai,1,15878
+915,Vistara,Sat, 6 Nov,20:40,13:15,16h 35m,New Delhi,Mumbai,1,15983
+916,Go First,Sat, 6 Nov,11:50,18:10,6h 20m,New Delhi,Mumbai,1,16019
+917,Vistara,Sat, 6 Nov,16:05,21:50,5h 45m,New Delhi,Mumbai,1,16193
+918,Vistara,Sat, 6 Nov,14:15,21:50,7h 35m,New Delhi,Mumbai,1,16193
+919,Go First,Sat, 6 Nov,10:45,17:00,6h 15m,New Delhi,Mumbai,1,16245
+920,Go First,Sat, 6 Nov,09:00,17:00,8h 00m,New Delhi,Mumbai,1,16245
+921,Air India,Sat, 6 Nov,05:15,16:25,11h 10m,New Delhi,Mumbai,2,16391
+922,Vistara,Sat, 6 Nov,20:40,20:15,23h 35m,New Delhi,Mumbai,1,16508
+923,SpiceJet,Sat, 6 Nov,12:00,13:10,25h 10m,New Delhi,Mumbai,1,16508
+924,Vistara,Sat, 6 Nov,20:30,13:00,16h 30m,New Delhi,Mumbai,1,16560
+925,Vistara,Sat, 6 Nov,17:30,13:00,19h 30m,New Delhi,Mumbai,1,16665
+926,Air India,Sat, 6 Nov,19:00,15:50,20h 50m,New Delhi,Mumbai,1,17453
+927,Vistara,Sat, 6 Nov,20:30,20:20,23h 50m,New Delhi,Mumbai,1,17610
+928,Go First,Sat, 6 Nov,10:45,18:20,7h 35m,New Delhi,Mumbai,1,17925
+929,Go First,Sat, 6 Nov,10:45,19:40,8h 55m,New Delhi,Mumbai,1,18765
+930,Vistara,Sat, 6 Nov,17:10,15:25,22h 15m,New Delhi,Mumbai,1,18818
+931,Air Asia,Mon, 1 Nov,00:45,06:35,5h 50m,Bangalore,Mumbai,1,5176
+932,Air Asia,Mon, 1 Nov,00:10,06:35,6h 25m,Bangalore,Mumbai,1,5176
+933,Air Asia,Mon, 1 Nov,13:10,19:35,6h 25m,Bangalore,Mumbai,1,5176
+934,Air Asia,Mon, 1 Nov,12:55,19:35,6h 40m,Bangalore,Mumbai,1,5176
+935,Air Asia,Mon, 1 Nov,22:10,06:35,8h 25m,Bangalore,Mumbai,1,5176
+936,Air Asia,Mon, 1 Nov,05:40,19:35,13h 55m,Bangalore,Mumbai,1,5176
+937,Air Asia,Mon, 1 Nov,06:15,22:15,16h 00m,Bangalore,Mumbai,1,5176
+938,Go First,Mon, 1 Nov,05:45,07:20,1h 35m,Bangalore,Mumbai,Non,5177
+939,Go First,Mon, 1 Nov,08:10,09:50,1h 40m,Bangalore,Mumbai,Non,5177
+940,Go First,Mon, 1 Nov,16:30,18:20,1h 50m,Bangalore,Mumbai,Non,5177
+941,Go First,Mon, 1 Nov,22:00,23:55,1h 55m,Bangalore,Mumbai,Non,5177
+942,Go First,Mon, 1 Nov,06:30,12:30,6h 00m,Bangalore,Mumbai,1,5177
+943,Go First,Mon, 1 Nov,21:00,04:55,7h 55m,Bangalore,Mumbai,1,5177
+944,Go First,Mon, 1 Nov,06:30,15:20,8h 50m,Bangalore,Mumbai,1,5177
+945,Go First,Mon, 1 Nov,07:40,16:35,8h 55m,Bangalore,Mumbai,1,5177
+946,Go First,Mon, 1 Nov,07:40,17:30,9h 50m,Bangalore,Mumbai,1,5177
+947,Go First,Mon, 1 Nov,22:15,09:40,11h 25m,Bangalore,Mumbai,1,5177
+948,Go First,Mon, 1 Nov,21:00,09:10,12h 10m,Bangalore,Mumbai,1,5177
+949,Go First,Mon, 1 Nov,07:40,20:25,12h 45m,Bangalore,Mumbai,1,5177
+950,IndiGo,Mon, 1 Nov,04:30,06:10,1h 40m,Bangalore,Mumbai,Non,5178
+951,IndiGo,Mon, 1 Nov,06:00,07:50,1h 50m,Bangalore,Mumbai,Non,5178
+952,IndiGo,Mon, 1 Nov,07:00,08:50,1h 50m,Bangalore,Mumbai,Non,5178
+953,IndiGo,Mon, 1 Nov,08:05,09:55,1h 50m,Bangalore,Mumbai,Non,5178
+954,IndiGo,Mon, 1 Nov,12:40,14:30,1h 50m,Bangalore,Mumbai,Non,5178
+955,IndiGo,Mon, 1 Nov,18:00,19:50,1h 50m,Bangalore,Mumbai,Non,5178
+956,IndiGo,Mon, 1 Nov,22:40,00:35,1h 55m,Bangalore,Mumbai,Non,5178
+957,Vistara,Mon, 1 Nov,06:40,08:15,1h 35m,Bangalore,Mumbai,Non,5179
+958,Air Asia,Mon, 1 Nov,05:35,07:15,1h 40m,Bangalore,Mumbai,Non,5179
+959,Vistara,Mon, 1 Nov,08:30,10:15,1h 45m,Bangalore,Mumbai,Non,5179
+960,Vistara,Mon, 1 Nov,21:40,23:25,1h 45m,Bangalore,Mumbai,Non,5179
+961,Air India,Mon, 1 Nov,06:45,08:35,1h 50m,Bangalore,Mumbai,Non,5179
+962,Vistara,Mon, 1 Nov,18:25,20:15,1h 50m,Bangalore,Mumbai,Non,5179
+963,Air Asia,Mon, 1 Nov,04:50,06:45,1h 55m,Bangalore,Mumbai,Non,5179
+964,Vistara,Mon, 1 Nov,09:30,11:25,1h 55m,Bangalore,Mumbai,Non,5179
+965,Vistara,Mon, 1 Nov,19:55,21:50,1h 55m,Bangalore,Mumbai,Non,5179
+966,Air India,Mon, 1 Nov,08:35,10:35,2h 00m,Bangalore,Mumbai,Non,5179
+967,IndiGo,Mon, 1 Nov,16:50,18:35,1h 45m,Bangalore,Mumbai,Non,5283
+968,Vistara,Mon, 1 Nov,11:30,13:15,1h 45m,Bangalore,Mumbai,Non,5284
+969,Air India,Mon, 1 Nov,19:10,21:05,1h 55m,Bangalore,Mumbai,Non,5809
+970,IndiGo,Mon, 1 Nov,10:30,12:25,1h 55m,Bangalore,Mumbai,Non,6543
+971,Air Asia,Mon, 1 Nov,11:20,22:15,10h 55m,Bangalore,Mumbai,1,6964
+972,IndiGo,Mon, 1 Nov,19:35,21:35,2h 00m,Bangalore,Mumbai,Non,7173
+973,IndiGo,Mon, 1 Nov,06:10,12:15,6h 05m,Bangalore,Mumbai,1,8066
+974,IndiGo,Mon, 1 Nov,23:45,05:50,6h 05m,Bangalore,Mumbai,1,8066
+975,IndiGo,Mon, 1 Nov,21:55,05:50,7h 55m,Bangalore,Mumbai,1,8066
+976,IndiGo,Mon, 1 Nov,23:45,07:45,8h 00m,Bangalore,Mumbai,1,8066
+977,IndiGo,Mon, 1 Nov,07:10,12:15,5h 05m,Bangalore,Mumbai,1,8118
+978,Vistara,Mon, 1 Nov,19:25,23:00,3h 35m,Bangalore,Mumbai,1,8224
+979,Vistara,Mon, 1 Nov,19:25,09:55,14h 30m,Bangalore,Mumbai,1,8224
+980,Air India,Mon, 1 Nov,18:50,09:40,14h 50m,Bangalore,Mumbai,1,8224
+981,Air India,Mon, 1 Nov,07:35,09:40,26h 05m,Bangalore,Mumbai,1,8224
+982,Vistara,Mon, 1 Nov,12:20,23:10,10h 50m,Bangalore,Mumbai,1,8434
+983,Air India,Mon, 1 Nov,18:50,23:20,4h 30m,Bangalore,Mumbai,1,8539
+984,Air India,Mon, 1 Nov,07:35,23:20,15h 45m,Bangalore,Mumbai,1,8539
+985,Air India,Mon, 1 Nov,15:15,09:40,18h 25m,Bangalore,Mumbai,2,8592
+986,IndiGo,Mon, 1 Nov,13:05,19:15,6h 10m,Bangalore,Mumbai,1,8643
+987,IndiGo,Mon, 1 Nov,09:20,16:35,7h 15m,Bangalore,Mumbai,1,8643
+988,Vistara,Mon, 1 Nov,12:20,14:45,26h 25m,Bangalore,Mumbai,1,8854
+989,Air India,Mon, 1 Nov,15:15,23:20,8h 05m,Bangalore,Mumbai,2,8907
+990,IndiGo,Mon, 1 Nov,10:55,15:05,4h 10m,Bangalore,Mumbai,1,8958
+991,IndiGo,Mon, 1 Nov,14:50,19:45,4h 55m,Bangalore,Mumbai,1,8958
+992,IndiGo,Mon, 1 Nov,09:10,15:05,5h 55m,Bangalore,Mumbai,1,8958
+993,IndiGo,Mon, 1 Nov,18:15,00:20,6h 05m,Bangalore,Mumbai,1,8958
+994,IndiGo,Mon, 1 Nov,15:45,22:10,6h 25m,Bangalore,Mumbai,1,8958
+995,IndiGo,Mon, 1 Nov,14:50,22:10,7h 20m,Bangalore,Mumbai,1,8958
+996,IndiGo,Mon, 1 Nov,22:55,06:35,7h 40m,Bangalore,Mumbai,1,8958
+997,IndiGo,Mon, 1 Nov,15:45,20:45,5h 00m,Bangalore,Mumbai,1,9221
+998,IndiGo,Mon, 1 Nov,14:50,20:45,5h 55m,Bangalore,Mumbai,1,9221
+999,IndiGo,Mon, 1 Nov,10:15,16:35,6h 20m,Bangalore,Mumbai,1,9273
+1000,IndiGo,Mon, 1 Nov,07:05,11:35,4h 30m,Bangalore,Mumbai,1,9378
+1001,IndiGo,Mon, 1 Nov,07:05,15:05,8h 00m,Bangalore,Mumbai,1,9378
+1002,IndiGo,Mon, 1 Nov,06:50,11:35,4h 45m,Bangalore,Mumbai,1,9431
+1003,IndiGo,Mon, 1 Nov,06:10,10:05,3h 55m,Bangalore,Mumbai,1,9746
+1004,IndiGo,Mon, 1 Nov,16:20,20:45,4h 25m,Bangalore,Mumbai,1,9746
+1005,IndiGo,Mon, 1 Nov,18:45,23:25,4h 40m,Bangalore,Mumbai,1,9746
+1006,IndiGo,Mon, 1 Nov,16:20,23:25,7h 05m,Bangalore,Mumbai,1,9746
+1007,IndiGo,Mon, 1 Nov,13:05,20:45,7h 40m,Bangalore,Mumbai,1,9746
+1008,Go First,Mon, 1 Nov,18:50,02:00,7h 10m,Bangalore,Mumbai,1,9770
+1009,Air India,Mon, 1 Nov,20:00,09:05,13h 05m,Bangalore,Mumbai,1,9855
+1010,Air India,Mon, 1 Nov,20:00,10:10,14h 10m,Bangalore,Mumbai,1,9855
+1011,Air India,Mon, 1 Nov,20:00,12:50,16h 50m,Bangalore,Mumbai,1,9855
+1012,Air India,Mon, 1 Nov,20:00,18:15,22h 15m,Bangalore,Mumbai,2,9855
+1013,Air India,Mon, 1 Nov,20:00,21:15,25h 15m,Bangalore,Mumbai,1,9855
+1014,Air India,Mon, 1 Nov,20:00,22:10,26h 10m,Bangalore,Mumbai,1,9855
+1015,IndiGo,Mon, 1 Nov,06:15,10:15,4h 00m,Bangalore,Mumbai,1,10061
+1016,Vistara,Mon, 1 Nov,21:10,08:00,10h 50m,Bangalore,Mumbai,1,10589
+1017,Vistara,Mon, 1 Nov,21:10,09:45,12h 35m,Bangalore,Mumbai,1,10589
+1018,Vistara,Mon, 1 Nov,21:10,11:10,14h 00m,Bangalore,Mumbai,1,10589
+1019,Vistara,Mon, 1 Nov,21:10,11:40,14h 30m,Bangalore,Mumbai,1,10589
+1020,Air India,Mon, 1 Nov,09:00,22:25,13h 25m,Bangalore,Mumbai,2,10744
+1021,Air India,Mon, 1 Nov,22:00,22:25,24h 25m,Bangalore,Mumbai,1,10744
+1022,Vistara,Mon, 1 Nov,17:45,23:50,6h 05m,Bangalore,Mumbai,1,10757
+1023,Vistara,Mon, 1 Nov,19:40,08:00,12h 20m,Bangalore,Mumbai,1,10757
+1024,Air India,Mon, 1 Nov,17:50,09:05,15h 15m,Bangalore,Mumbai,1,10779
+1025,Air India,Mon, 1 Nov,17:50,10:10,16h 20m,Bangalore,Mumbai,1,10779
+1026,Air India,Mon, 1 Nov,17:50,12:50,19h 00m,Bangalore,Mumbai,1,10779
+1027,Air India,Mon, 1 Nov,17:50,18:15,24h 25m,Bangalore,Mumbai,2,10779
+1028,Air India,Mon, 1 Nov,17:50,21:15,27h 25m,Bangalore,Mumbai,1,10779
+1029,Vistara,Mon, 1 Nov,07:00,12:35,5h 35m,Bangalore,Mumbai,1,11261
+1030,Vistara,Mon, 1 Nov,08:00,14:00,6h 00m,Bangalore,Mumbai,1,11261
+1031,Vistara,Mon, 1 Nov,11:30,17:40,6h 10m,Bangalore,Mumbai,1,11261
+1032,Vistara,Mon, 1 Nov,07:00,14:00,7h 00m,Bangalore,Mumbai,1,11261
+1033,Vistara,Mon, 1 Nov,08:00,15:00,7h 00m,Bangalore,Mumbai,1,11261
+1034,Air India,Mon, 1 Nov,07:35,18:15,10h 40m,Bangalore,Mumbai,3,11545
+1035,Air India,Mon, 1 Nov,07:35,22:10,14h 35m,Bangalore,Mumbai,2,11545
+1036,Air India,Mon, 1 Nov,18:50,12:50,18h 00m,Bangalore,Mumbai,2,11545
+1037,Air India,Mon, 1 Nov,18:50,18:15,23h 25m,Bangalore,Mumbai,3,11545
+1038,Air India,Mon, 1 Nov,07:35,09:05,25h 30m,Bangalore,Mumbai,2,11545
+1039,Air India,Mon, 1 Nov,18:50,21:15,26h 25m,Bangalore,Mumbai,2,11545
+1040,Air India,Mon, 1 Nov,07:35,10:10,26h 35m,Bangalore,Mumbai,2,11545
+1041,Air India,Mon, 1 Nov,18:50,22:10,27h 20m,Bangalore,Mumbai,2,11545
+1042,Air India,Mon, 1 Nov,11:50,17:25,5h 35m,Bangalore,Mumbai,1,11584
+1043,Go First,Mon, 1 Nov,15:45,19:40,3h 55m,Bangalore,Mumbai,1,11688
+1044,IndiGo,Mon, 1 Nov,09:05,14:25,5h 20m,Bangalore,Mumbai,1,12161
+1045,IndiGo,Mon, 1 Nov,12:45,17:45,5h 00m,Bangalore,Mumbai,1,12476
+1046,Go First,Mon, 1 Nov,14:00,20:20,6h 20m,Bangalore,Mumbai,1,12686
+1047,IndiGo,Mon, 1 Nov,14:10,19:40,5h 30m,Bangalore,Mumbai,1,13001
+1048,SpiceJet,Mon, 1 Nov,05:55,14:45,8h 50m,Bangalore,Mumbai,1,13474
+1049,SpiceJet,Mon, 1 Nov,05:55,18:50,12h 55m,Bangalore,Mumbai,1,13474
+1050,Air India,Mon, 1 Nov,20:00,17:50,21h 50m,Bangalore,Mumbai,2,13740
+1051,Vistara,Mon, 1 Nov,09:45,16:00,30h 15m,Bangalore,Mumbai,2,14250
+1052,Vistara,Mon, 1 Nov,08:00,16:00,32h 00m,Bangalore,Mumbai,2,14250
+1053,Vistara,Mon, 1 Nov,07:00,16:00,33h 00m,Bangalore,Mumbai,2,14250
+1054,IndiGo,Mon, 1 Nov,12:45,19:40,6h 55m,Bangalore,Mumbai,1,14576
+1055,Air India,Mon, 1 Nov,20:00,15:50,19h 50m,Bangalore,Mumbai,2,14580
+1056,Air India,Mon, 1 Nov,17:50,17:50,24h 00m,Bangalore,Mumbai,2,14664
+1057,Go First,Mon, 1 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,15059
+1058,Go First,Mon, 1 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,15100
+1059,Air India,Mon, 1 Nov,07:00,15:50,8h 50m,Bangalore,Mumbai,1,15259
+1060,Air India,Mon, 1 Nov,17:50,15:50,22h 00m,Bangalore,Mumbai,2,15504
+1061,Air India,Mon, 1 Nov,13:20,17:50,28h 30m,Bangalore,Mumbai,2,15588
+1062,Air India,Mon, 1 Nov,10:25,16:25,30h 00m,Bangalore,Mumbai,3,16178
+1063,Air India,Mon, 1 Nov,13:20,15:50,26h 30m,Bangalore,Mumbai,2,16428
+1064,Air India,Mon, 1 Nov,10:25,15:50,29h 25m,Bangalore,Mumbai,2,16428
+1065,Air India,Mon, 1 Nov,06:10,17:50,11h 40m,Bangalore,Mumbai,2,16743
+1066,Vistara,Mon, 1 Nov,10:15,21:35,11h 20m,Bangalore,Mumbai,1,17359
+1067,Vistara,Mon, 1 Nov,21:10,14:30,17h 20m,Bangalore,Mumbai,2,17498
+1068,Vistara,Mon, 1 Nov,19:40,14:30,18h 50m,Bangalore,Mumbai,2,17498
+1069,Air India,Mon, 1 Nov,11:05,20:30,9h 25m,Bangalore,Mumbai,1,17989
+1070,Air Asia,Tue, 2 Nov,00:45,06:35,5h 50m,Bangalore,Mumbai,1,5176
+1071,Air Asia,Tue, 2 Nov,00:10,06:35,6h 25m,Bangalore,Mumbai,1,5176
+1072,Air Asia,Tue, 2 Nov,22:10,06:35,8h 25m,Bangalore,Mumbai,1,5176
+1073,Air Asia,Tue, 2 Nov,11:20,22:15,10h 55m,Bangalore,Mumbai,1,5176
+1074,Air Asia,Tue, 2 Nov,06:15,22:15,16h 00m,Bangalore,Mumbai,1,5176
+1075,Go First,Tue, 2 Nov,05:45,07:20,1h 35m,Bangalore,Mumbai,Non,5177
+1076,Go First,Tue, 2 Nov,08:10,09:50,1h 40m,Bangalore,Mumbai,Non,5177
+1077,Go First,Tue, 2 Nov,16:30,18:20,1h 50m,Bangalore,Mumbai,Non,5177
+1078,Go First,Tue, 2 Nov,22:00,23:55,1h 55m,Bangalore,Mumbai,Non,5177
+1079,Go First,Tue, 2 Nov,06:30,12:30,6h 00m,Bangalore,Mumbai,1,5177
+1080,Go First,Tue, 2 Nov,21:00,04:55,7h 55m,Bangalore,Mumbai,1,5177
+1081,Go First,Tue, 2 Nov,06:30,15:20,8h 50m,Bangalore,Mumbai,1,5177
+1082,Go First,Tue, 2 Nov,07:40,16:35,8h 55m,Bangalore,Mumbai,1,5177
+1083,Go First,Tue, 2 Nov,07:40,17:30,9h 50m,Bangalore,Mumbai,1,5177
+1084,Go First,Tue, 2 Nov,22:15,09:40,11h 25m,Bangalore,Mumbai,1,5177
+1085,IndiGo,Tue, 2 Nov,04:30,06:10,1h 40m,Bangalore,Mumbai,Non,5178
+1086,IndiGo,Tue, 2 Nov,06:00,07:50,1h 50m,Bangalore,Mumbai,Non,5178
+1087,IndiGo,Tue, 2 Nov,12:40,14:30,1h 50m,Bangalore,Mumbai,Non,5178
+1088,IndiGo,Tue, 2 Nov,18:00,19:50,1h 50m,Bangalore,Mumbai,Non,5178
+1089,IndiGo,Tue, 2 Nov,22:40,00:35,1h 55m,Bangalore,Mumbai,Non,5178
+1090,Vistara,Tue, 2 Nov,06:40,08:15,1h 35m,Bangalore,Mumbai,Non,5179
+1091,Air Asia,Tue, 2 Nov,05:35,07:15,1h 40m,Bangalore,Mumbai,Non,5179
+1092,Vistara,Tue, 2 Nov,08:30,10:15,1h 45m,Bangalore,Mumbai,Non,5179
+1093,Vistara,Tue, 2 Nov,11:30,13:15,1h 45m,Bangalore,Mumbai,Non,5179
+1094,Vistara,Tue, 2 Nov,21:40,23:25,1h 45m,Bangalore,Mumbai,Non,5179
+1095,Vistara,Tue, 2 Nov,18:25,20:15,1h 50m,Bangalore,Mumbai,Non,5179
+1096,Air Asia,Tue, 2 Nov,04:50,06:45,1h 55m,Bangalore,Mumbai,Non,5179
+1097,Vistara,Tue, 2 Nov,09:30,11:25,1h 55m,Bangalore,Mumbai,Non,5179
+1098,Vistara,Tue, 2 Nov,19:55,21:50,1h 55m,Bangalore,Mumbai,Non,5179
+1099,IndiGo,Tue, 2 Nov,07:00,08:50,1h 50m,Bangalore,Mumbai,Non,5388
+1100,IndiGo,Tue, 2 Nov,08:05,09:55,1h 50m,Bangalore,Mumbai,Non,5546
+1101,Air India,Tue, 2 Nov,19:10,21:05,1h 55m,Bangalore,Mumbai,Non,5809
+1102,IndiGo,Tue, 2 Nov,10:30,12:25,1h 55m,Bangalore,Mumbai,Non,6123
+1103,IndiGo,Tue, 2 Nov,16:50,18:35,1h 45m,Bangalore,Mumbai,Non,6333
+1104,IndiGo,Tue, 2 Nov,19:35,21:35,2h 00m,Bangalore,Mumbai,Non,7173
+1105,IndiGo,Tue, 2 Nov,09:05,13:05,4h 00m,Bangalore,Mumbai,1,7331
+1106,IndiGo,Tue, 2 Nov,06:15,13:05,6h 50m,Bangalore,Mumbai,1,7331
+1107,IndiGo,Tue, 2 Nov,09:05,14:25,5h 20m,Bangalore,Mumbai,1,7436
+1108,IndiGo,Tue, 2 Nov,12:45,17:45,5h 00m,Bangalore,Mumbai,1,7646
+1109,Go First,Tue, 2 Nov,15:45,19:40,3h 55m,Bangalore,Mumbai,1,7750
+1110,IndiGo,Tue, 2 Nov,06:15,10:15,4h 00m,Bangalore,Mumbai,1,7856
+1111,IndiGo,Tue, 2 Nov,14:10,19:40,5h 30m,Bangalore,Mumbai,1,7856
+1112,IndiGo,Tue, 2 Nov,12:45,19:40,6h 55m,Bangalore,Mumbai,1,7856
+1113,Air India,Tue, 2 Nov,11:50,08:05,20h 15m,Bangalore,Mumbai,1,8040
+1114,IndiGo,Tue, 2 Nov,07:10,12:15,5h 05m,Bangalore,Mumbai,1,8066
+1115,IndiGo,Tue, 2 Nov,06:10,12:15,6h 05m,Bangalore,Mumbai,1,8066
+1116,IndiGo,Tue, 2 Nov,23:45,05:50,6h 05m,Bangalore,Mumbai,1,8066
+1117,IndiGo,Tue, 2 Nov,13:05,19:15,6h 10m,Bangalore,Mumbai,1,8066
+1118,IndiGo,Tue, 2 Nov,09:20,16:35,7h 15m,Bangalore,Mumbai,1,8066
+1119,IndiGo,Tue, 2 Nov,21:55,05:50,7h 55m,Bangalore,Mumbai,1,8066
+1120,SpiceJet,Tue, 2 Nov,05:55,14:45,8h 50m,Bangalore,Mumbai,1,8118
+1121,Vistara,Tue, 2 Nov,19:25,23:00,3h 35m,Bangalore,Mumbai,1,8224
+1122,Vistara,Tue, 2 Nov,19:25,09:55,14h 30m,Bangalore,Mumbai,1,8224
+1123,SpiceJet,Tue, 2 Nov,05:55,18:50,12h 55m,Bangalore,Mumbai,1,8276
+1124,IndiGo,Tue, 2 Nov,10:15,16:35,6h 20m,Bangalore,Mumbai,1,8328
+1125,Vistara,Tue, 2 Nov,12:20,23:10,10h 50m,Bangalore,Mumbai,1,8329
+1126,IndiGo,Tue, 2 Nov,06:50,11:35,4h 45m,Bangalore,Mumbai,1,8801
+1127,IndiGo,Tue, 2 Nov,10:55,15:05,4h 10m,Bangalore,Mumbai,1,8958
+1128,IndiGo,Tue, 2 Nov,07:05,11:35,4h 30m,Bangalore,Mumbai,1,8958
+1129,IndiGo,Tue, 2 Nov,14:50,19:45,4h 55m,Bangalore,Mumbai,1,8958
+1130,IndiGo,Tue, 2 Nov,15:45,20:45,5h 00m,Bangalore,Mumbai,1,8958
+1131,IndiGo,Tue, 2 Nov,09:10,15:05,5h 55m,Bangalore,Mumbai,1,8958
+1132,IndiGo,Tue, 2 Nov,14:50,20:45,5h 55m,Bangalore,Mumbai,1,8958
+1133,IndiGo,Tue, 2 Nov,18:15,00:20,6h 05m,Bangalore,Mumbai,1,8958
+1134,IndiGo,Tue, 2 Nov,15:45,22:10,6h 25m,Bangalore,Mumbai,1,8958
+1135,IndiGo,Tue, 2 Nov,14:50,22:10,7h 20m,Bangalore,Mumbai,1,8958
+1136,IndiGo,Tue, 2 Nov,22:55,06:35,7h 40m,Bangalore,Mumbai,1,8958
+1137,Air India,Tue, 2 Nov,11:50,17:05,5h 15m,Bangalore,Mumbai,1,9064
+1138,Air India,Tue, 2 Nov,17:20,09:05,15h 45m,Bangalore,Mumbai,1,9277
+1139,Air India,Tue, 2 Nov,17:20,10:10,16h 50m,Bangalore,Mumbai,1,9277
+1140,Air India,Tue, 2 Nov,17:20,11:15,17h 55m,Bangalore,Mumbai,1,9277
+1141,Air India,Tue, 2 Nov,17:20,12:50,19h 30m,Bangalore,Mumbai,1,9277
+1142,Air India,Tue, 2 Nov,17:20,18:15,24h 55m,Bangalore,Mumbai,2,9277
+1143,Air India,Tue, 2 Nov,17:20,21:35,28h 15m,Bangalore,Mumbai,2,9277
+1144,IndiGo,Tue, 2 Nov,06:10,10:05,3h 55m,Bangalore,Mumbai,1,9746
+1145,IndiGo,Tue, 2 Nov,16:20,20:45,4h 25m,Bangalore,Mumbai,1,9746
+1146,IndiGo,Tue, 2 Nov,18:45,23:25,4h 40m,Bangalore,Mumbai,1,9746
+1147,IndiGo,Tue, 2 Nov,16:20,23:25,7h 05m,Bangalore,Mumbai,1,9746
+1148,IndiGo,Tue, 2 Nov,13:05,20:45,7h 40m,Bangalore,Mumbai,1,9746
+1149,Air India,Tue, 2 Nov,17:20,22:10,28h 50m,Bangalore,Mumbai,1,9855
+1150,Air India,Tue, 2 Nov,06:40,22:25,15h 45m,Bangalore,Mumbai,2,10377
+1151,Vistara,Tue, 2 Nov,08:00,14:00,6h 00m,Bangalore,Mumbai,1,10589
+1152,Vistara,Tue, 2 Nov,11:30,17:40,6h 10m,Bangalore,Mumbai,1,10589
+1153,Vistara,Tue, 2 Nov,08:00,15:00,7h 00m,Bangalore,Mumbai,1,10589
+1154,Vistara,Tue, 2 Nov,11:30,19:05,7h 35m,Bangalore,Mumbai,1,10589
+1155,Vistara,Tue, 2 Nov,11:30,20:05,8h 35m,Bangalore,Mumbai,1,10589
+1156,Vistara,Tue, 2 Nov,08:00,17:40,9h 40m,Bangalore,Mumbai,1,10589
+1157,Vistara,Tue, 2 Nov,11:30,21:15,9h 45m,Bangalore,Mumbai,1,10589
+1158,Vistara,Tue, 2 Nov,11:30,22:00,10h 30m,Bangalore,Mumbai,1,10589
+1159,Vistara,Tue, 2 Nov,21:10,08:00,10h 50m,Bangalore,Mumbai,1,10589
+1160,Vistara,Tue, 2 Nov,08:00,19:05,11h 05m,Bangalore,Mumbai,1,10589
+1161,Vistara,Tue, 2 Nov,07:00,12:35,5h 35m,Bangalore,Mumbai,1,10757
+1162,Vistara,Tue, 2 Nov,07:00,14:00,7h 00m,Bangalore,Mumbai,1,10757
+1163,Vistara,Tue, 2 Nov,09:45,17:40,7h 55m,Bangalore,Mumbai,1,10757
+1164,Vistara,Tue, 2 Nov,07:00,15:00,8h 00m,Bangalore,Mumbai,1,10757
+1165,Vistara,Tue, 2 Nov,09:45,19:05,9h 20m,Bangalore,Mumbai,1,10757
+1166,Air India,Tue, 2 Nov,05:45,12:50,7h 05m,Bangalore,Mumbai,1,10779
+1167,Air India,Tue, 2 Nov,05:45,18:15,12h 30m,Bangalore,Mumbai,2,10779
+1168,Air India,Tue, 2 Nov,05:45,21:15,15h 30m,Bangalore,Mumbai,1,10779
+1169,Air India,Tue, 2 Nov,05:45,22:10,16h 25m,Bangalore,Mumbai,1,10779
+1170,Air India,Tue, 2 Nov,05:45,09:05,27h 20m,Bangalore,Mumbai,1,10779
+1171,Vistara,Tue, 2 Nov,17:45,23:50,6h 05m,Bangalore,Mumbai,1,11261
+1172,Air India,Tue, 2 Nov,10:25,18:15,7h 50m,Bangalore,Mumbai,2,11703
+1173,Air India,Tue, 2 Nov,10:25,21:15,10h 50m,Bangalore,Mumbai,1,11703
+1174,Air India,Tue, 2 Nov,10:25,22:10,11h 45m,Bangalore,Mumbai,1,11703
+1175,Go First,Tue, 2 Nov,18:50,02:00,7h 10m,Bangalore,Mumbai,1,11766
+1176,Air India,Tue, 2 Nov,18:50,12:50,18h 00m,Bangalore,Mumbai,2,12007
+1177,Air India,Tue, 2 Nov,18:50,18:15,23h 25m,Bangalore,Mumbai,3,12007
+1178,Air India,Tue, 2 Nov,18:50,21:35,26h 45m,Bangalore,Mumbai,3,12007
+1179,Air India,Tue, 2 Nov,05:45,22:10,16h 25m,Bangalore,Mumbai,3,12469
+1180,Go First,Tue, 2 Nov,14:00,20:20,6h 20m,Bangalore,Mumbai,1,12686
+1181,Air India,Tue, 2 Nov,05:45,16:45,11h 00m,Bangalore,Mumbai,2,13684
+1182,Vistara,Tue, 2 Nov,12:20,14:45,26h 25m,Bangalore,Mumbai,1,13789
+1183,Air India,Tue, 2 Nov,11:50,12:50,25h 00m,Bangalore,Mumbai,2,13824
+1184,Air India,Tue, 2 Nov,11:50,18:15,30h 25m,Bangalore,Mumbai,3,13824
+1185,Air India,Tue, 2 Nov,11:50,21:35,33h 45m,Bangalore,Mumbai,3,13824
+1186,Air India,Tue, 2 Nov,11:50,22:10,34h 20m,Bangalore,Mumbai,2,13824
+1187,Air India,Tue, 2 Nov,17:20,16:25,23h 05m,Bangalore,Mumbai,3,14067
+1188,Go First,Tue, 2 Nov,08:15,15:55,7h 40m,Bangalore,Mumbai,1,14380
+1189,Go First,Tue, 2 Nov,08:15,20:20,12h 05m,Bangalore,Mumbai,1,14380
+1190,Air India,Tue, 2 Nov,05:45,17:50,12h 05m,Bangalore,Mumbai,2,14664
+1191,Air India,Tue, 2 Nov,11:50,09:05,21h 15m,Bangalore,Mumbai,2,14748
+1192,Air India,Tue, 2 Nov,11:50,10:10,22h 20m,Bangalore,Mumbai,2,14748
+1193,Air India,Tue, 2 Nov,11:50,11:15,23h 25m,Bangalore,Mumbai,2,14748
+1194,Air India,Tue, 2 Nov,11:50,12:50,25h 00m,Bangalore,Mumbai,2,14748
+1195,Air India,Tue, 2 Nov,11:50,18:15,30h 25m,Bangalore,Mumbai,3,14748
+1196,Go First,Tue, 2 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,15059
+1197,Air India,Tue, 2 Nov,05:45,15:50,10h 05m,Bangalore,Mumbai,2,15504
+1198,Go First,Tue, 2 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,15888
+1199,Vistara,Tue, 2 Nov,10:15,21:35,11h 20m,Bangalore,Mumbai,1,16729
+1200,Air India,Tue, 2 Nov,15:30,13:25,21h 55m,Bangalore,Mumbai,1,19249
+1201,Vistara,Tue, 2 Nov,12:20,20:05,7h 45m,Bangalore,Mumbai,2,30064
+1202,Air India,Sat, 6 Nov,06:45,08:35,1h 50m,Bangalore,Mumbai,Non,4315
+1203,Air Asia,Sat, 6 Nov,00:45,06:35,5h 50m,Bangalore,Mumbai,1,5176
+1204,Air Asia,Sat, 6 Nov,13:15,19:35,6h 20m,Bangalore,Mumbai,1,5176
+1205,Air Asia,Sat, 6 Nov,00:10,06:35,6h 25m,Bangalore,Mumbai,1,5176
+1206,Air Asia,Sat, 6 Nov,13:10,19:35,6h 25m,Bangalore,Mumbai,1,5176
+1207,Air Asia,Sat, 6 Nov,22:10,06:35,8h 25m,Bangalore,Mumbai,1,5176
+1208,Air Asia,Sat, 6 Nov,05:40,19:35,13h 55m,Bangalore,Mumbai,1,5176
+1209,Air Asia,Sat, 6 Nov,05:25,19:35,14h 10m,Bangalore,Mumbai,1,5176
+1210,Go First,Sat, 6 Nov,05:45,07:20,1h 35m,Bangalore,Mumbai,Non,5177
+1211,Go First,Sat, 6 Nov,08:10,09:50,1h 40m,Bangalore,Mumbai,Non,5177
+1212,Go First,Sat, 6 Nov,16:30,18:20,1h 50m,Bangalore,Mumbai,Non,5177
+1213,Go First,Sat, 6 Nov,22:00,23:55,1h 55m,Bangalore,Mumbai,Non,5177
+1214,Go First,Sat, 6 Nov,14:00,20:20,6h 20m,Bangalore,Mumbai,1,5177
+1215,Go First,Sat, 6 Nov,21:00,04:55,7h 55m,Bangalore,Mumbai,1,5177
+1216,Go First,Sat, 6 Nov,07:40,16:35,8h 55m,Bangalore,Mumbai,1,5177
+1217,Go First,Sat, 6 Nov,07:40,17:30,9h 50m,Bangalore,Mumbai,1,5177
+1218,Go First,Sat, 6 Nov,22:15,09:40,11h 25m,Bangalore,Mumbai,1,5177
+1219,Go First,Sat, 6 Nov,21:00,09:10,12h 10m,Bangalore,Mumbai,1,5177
+1220,Go First,Sat, 6 Nov,07:40,20:25,12h 45m,Bangalore,Mumbai,1,5177
+1221,IndiGo,Sat, 6 Nov,04:30,06:10,1h 40m,Bangalore,Mumbai,Non,5178
+1222,IndiGo,Sat, 6 Nov,06:00,07:50,1h 50m,Bangalore,Mumbai,Non,5178
+1223,IndiGo,Sat, 6 Nov,07:00,08:50,1h 50m,Bangalore,Mumbai,Non,5178
+1224,IndiGo,Sat, 6 Nov,06:10,12:15,6h 05m,Bangalore,Mumbai,1,5178
+1225,IndiGo,Sat, 6 Nov,18:15,00:20,6h 05m,Bangalore,Mumbai,1,5178
+1226,IndiGo,Sat, 6 Nov,23:45,05:50,6h 05m,Bangalore,Mumbai,1,5178
+1227,IndiGo,Sat, 6 Nov,13:05,19:15,6h 10m,Bangalore,Mumbai,1,5178
+1228,IndiGo,Sat, 6 Nov,15:45,22:10,6h 25m,Bangalore,Mumbai,1,5178
+1229,IndiGo,Sat, 6 Nov,14:50,22:10,7h 20m,Bangalore,Mumbai,1,5178
+1230,IndiGo,Sat, 6 Nov,22:55,06:35,7h 40m,Bangalore,Mumbai,1,5178
+1231,IndiGo,Sat, 6 Nov,21:55,05:50,7h 55m,Bangalore,Mumbai,1,5178
+1232,Vistara,Sat, 6 Nov,06:40,08:15,1h 35m,Bangalore,Mumbai,Non,5179
+1233,Air Asia,Sat, 6 Nov,05:35,07:15,1h 40m,Bangalore,Mumbai,Non,5179
+1234,Vistara,Sat, 6 Nov,08:30,10:15,1h 45m,Bangalore,Mumbai,Non,5179
+1235,Air Asia,Sat, 6 Nov,04:50,06:45,1h 55m,Bangalore,Mumbai,Non,5179
+1236,IndiGo,Sat, 6 Nov,12:40,14:30,1h 50m,Bangalore,Mumbai,Non,5283
+1237,IndiGo,Sat, 6 Nov,08:05,09:55,1h 50m,Bangalore,Mumbai,Non,5388
+1238,Vistara,Sat, 6 Nov,21:40,23:25,1h 45m,Bangalore,Mumbai,Non,5494
+1239,IndiGo,Sat, 6 Nov,06:15,10:15,4h 00m,Bangalore,Mumbai,1,5635
+1240,Vistara,Sat, 6 Nov,11:30,13:15,1h 45m,Bangalore,Mumbai,Non,5757
+1241,Vistara,Sat, 6 Nov,09:30,11:25,1h 55m,Bangalore,Mumbai,Non,5757
+1242,Air Asia,Sat, 6 Nov,06:15,22:15,16h 00m,Bangalore,Mumbai,1,5901
+1243,IndiGo,Sat, 6 Nov,22:40,00:35,1h 55m,Bangalore,Mumbai,Non,5913
+1244,Vistara,Sat, 6 Nov,18:25,20:15,1h 50m,Bangalore,Mumbai,Non,6072
+1245,IndiGo,Sat, 6 Nov,07:10,12:15,5h 05m,Bangalore,Mumbai,1,6092
+1246,IndiGo,Sat, 6 Nov,10:15,16:35,6h 20m,Bangalore,Mumbai,1,6092
+1247,IndiGo,Sat, 6 Nov,09:20,16:35,7h 15m,Bangalore,Mumbai,1,6092
+1248,IndiGo,Sat, 6 Nov,10:30,12:25,1h 55m,Bangalore,Mumbai,Non,6333
+1249,IndiGo,Sat, 6 Nov,18:00,19:50,1h 50m,Bangalore,Mumbai,Non,6543
+1250,IndiGo,Sat, 6 Nov,07:05,11:35,4h 30m,Bangalore,Mumbai,1,6548
+1251,IndiGo,Sat, 6 Nov,06:50,11:35,4h 45m,Bangalore,Mumbai,1,6548
+1252,IndiGo,Sat, 6 Nov,15:45,20:45,5h 00m,Bangalore,Mumbai,1,6548
+1253,IndiGo,Sat, 6 Nov,14:50,20:45,5h 55m,Bangalore,Mumbai,1,6548
+1254,Vistara,Sat, 6 Nov,19:55,21:50,1h 55m,Bangalore,Mumbai,Non,6597
+1255,Air India,Sat, 6 Nov,05:45,09:40,27h 55m,Bangalore,Mumbai,2,7149
+1256,IndiGo,Sat, 6 Nov,19:35,21:35,2h 00m,Bangalore,Mumbai,Non,7173
+1257,IndiGo,Sat, 6 Nov,10:55,15:05,4h 10m,Bangalore,Mumbai,1,7462
+1258,IndiGo,Sat, 6 Nov,09:10,15:05,5h 55m,Bangalore,Mumbai,1,7462
+1259,Air India,Sat, 6 Nov,18:50,09:40,14h 50m,Bangalore,Mumbai,1,7519
+1260,Air India,Sat, 6 Nov,15:15,09:40,18h 25m,Bangalore,Mumbai,2,7519
+1261,Vistara,Sat, 6 Nov,19:25,23:00,3h 35m,Bangalore,Mumbai,1,8224
+1262,Vistara,Sat, 6 Nov,19:25,09:55,14h 30m,Bangalore,Mumbai,1,8224
+1263,IndiGo,Sat, 6 Nov,16:50,18:35,1h 45m,Bangalore,Mumbai,Non,8538
+1264,Air India,Sat, 6 Nov,07:25,22:25,15h 00m,Bangalore,Mumbai,1,8661
+1265,Air India,Sat, 6 Nov,11:50,08:05,20h 15m,Bangalore,Mumbai,1,8939
+1266,Vistara,Sat, 6 Nov,12:20,23:10,10h 50m,Bangalore,Mumbai,1,9012
+1267,Air India,Sat, 6 Nov,06:10,12:50,6h 40m,Bangalore,Mumbai,1,9277
+1268,Air India,Sat, 6 Nov,06:10,18:15,12h 05m,Bangalore,Mumbai,2,9277
+1269,Air India,Sat, 6 Nov,06:10,21:15,15h 05m,Bangalore,Mumbai,1,9277
+1270,Air India,Sat, 6 Nov,06:10,22:10,16h 00m,Bangalore,Mumbai,1,9277
+1271,Air India,Sat, 6 Nov,06:10,09:05,26h 55m,Bangalore,Mumbai,1,9277
+1272,IndiGo,Sat, 6 Nov,06:10,10:05,3h 55m,Bangalore,Mumbai,1,9746
+1273,IndiGo,Sat, 6 Nov,09:05,13:05,4h 00m,Bangalore,Mumbai,1,9746
+1274,IndiGo,Sat, 6 Nov,16:20,20:45,4h 25m,Bangalore,Mumbai,1,9746
+1275,IndiGo,Sat, 6 Nov,18:45,23:25,4h 40m,Bangalore,Mumbai,1,9746
+1276,IndiGo,Sat, 6 Nov,14:50,19:45,4h 55m,Bangalore,Mumbai,1,9746
+1277,IndiGo,Sat, 6 Nov,06:15,13:05,6h 50m,Bangalore,Mumbai,1,9746
+1278,IndiGo,Sat, 6 Nov,16:20,23:25,7h 05m,Bangalore,Mumbai,1,9746
+1279,IndiGo,Sat, 6 Nov,13:05,20:45,7h 40m,Bangalore,Mumbai,1,9746
+1280,Go First,Sat, 6 Nov,06:30,15:20,8h 50m,Bangalore,Mumbai,1,9770
+1281,Air India,Sat, 6 Nov,17:50,09:05,15h 15m,Bangalore,Mumbai,1,9855
+1282,Air India,Sat, 6 Nov,17:50,10:10,16h 20m,Bangalore,Mumbai,1,9855
+1283,Air India,Sat, 6 Nov,17:50,11:15,17h 25m,Bangalore,Mumbai,1,9855
+1284,Air India,Sat, 6 Nov,06:10,10:10,28h 00m,Bangalore,Mumbai,1,9855
+1285,Air Asia,Sat, 6 Nov,11:20,22:15,10h 55m,Bangalore,Mumbai,1,10019
+1286,Air India,Sat, 6 Nov,09:00,22:25,13h 25m,Bangalore,Mumbai,2,10324
+1287,Go First,Sat, 6 Nov,18:50,02:00,7h 10m,Bangalore,Mumbai,1,10348
+1288,SpiceJet,Sat, 6 Nov,05:55,18:50,12h 55m,Bangalore,Mumbai,1,10428
+1289,Vistara,Sat, 6 Nov,07:00,12:35,5h 35m,Bangalore,Mumbai,1,10589
+1290,Vistara,Sat, 6 Nov,07:00,15:00,8h 00m,Bangalore,Mumbai,1,10589
+1291,Vistara,Sat, 6 Nov,07:00,17:40,10h 40m,Bangalore,Mumbai,1,10589
+1292,Vistara,Sat, 6 Nov,07:00,19:05,12h 05m,Bangalore,Mumbai,1,10589
+1293,Vistara,Sat, 6 Nov,21:10,09:45,12h 35m,Bangalore,Mumbai,1,10589
+1294,IndiGo,Sat, 6 Nov,09:05,14:25,5h 20m,Bangalore,Mumbai,1,10659
+1295,Vistara,Sat, 6 Nov,08:00,14:00,6h 00m,Bangalore,Mumbai,1,10757
+1296,Vistara,Sat, 6 Nov,07:00,14:00,7h 00m,Bangalore,Mumbai,1,10757
+1297,Vistara,Sat, 6 Nov,08:00,15:00,7h 00m,Bangalore,Mumbai,1,10757
+1298,Vistara,Sat, 6 Nov,09:45,17:40,7h 55m,Bangalore,Mumbai,1,10757
+1299,Vistara,Sat, 6 Nov,09:45,19:05,9h 20m,Bangalore,Mumbai,1,10757
+1300,Vistara,Sat, 6 Nov,08:00,17:40,9h 40m,Bangalore,Mumbai,1,10757
+1301,Vistara,Sat, 6 Nov,09:45,20:05,10h 20m,Bangalore,Mumbai,1,10757
+1302,Air India,Sat, 6 Nov,10:25,18:15,7h 50m,Bangalore,Mumbai,2,10779
+1303,Air India,Sat, 6 Nov,10:25,21:15,10h 50m,Bangalore,Mumbai,1,10779
+1304,Air India,Sat, 6 Nov,10:25,22:10,11h 45m,Bangalore,Mumbai,1,10779
+1305,Air India,Sat, 6 Nov,10:25,09:05,22h 40m,Bangalore,Mumbai,1,10779
+1306,Go First,Sat, 6 Nov,15:45,19:40,3h 55m,Bangalore,Mumbai,1,10848
+1307,SpiceJet,Sat, 6 Nov,05:55,14:45,8h 50m,Bangalore,Mumbai,1,10848
+1308,Air India,Sat, 6 Nov,05:45,17:25,11h 40m,Bangalore,Mumbai,2,11045
+1309,Vistara,Sat, 6 Nov,11:30,17:40,6h 10m,Bangalore,Mumbai,1,11261
+1310,Vistara,Sat, 6 Nov,11:30,19:05,7h 35m,Bangalore,Mumbai,1,11261
+1311,IndiGo,Sat, 6 Nov,12:45,17:45,5h 00m,Bangalore,Mumbai,1,11573
+1312,IndiGo,Sat, 6 Nov,14:10,19:40,5h 30m,Bangalore,Mumbai,1,11573
+1313,IndiGo,Sat, 6 Nov,12:45,19:40,6h 55m,Bangalore,Mumbai,1,11573
+1314,Air India,Sat, 6 Nov,13:20,21:15,7h 55m,Bangalore,Mumbai,1,11703
+1315,Air India,Sat, 6 Nov,11:50,12:50,25h 00m,Bangalore,Mumbai,2,15358
+1316,Go First,Sat, 6 Nov,06:30,12:30,6h 00m,Bangalore,Mumbai,1,15756
+1317,Go First,Sat, 6 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,16780
+1318,Air India,Sat, 6 Nov,06:10,15:50,9h 40m,Bangalore,Mumbai,2,17257
+1319,Vistara,Sat, 6 Nov,12:20,20:05,7h 45m,Bangalore,Mumbai,2,18514
+1320,Vistara,Sat, 6 Nov,12:20,21:15,8h 55m,Bangalore,Mumbai,2,18514
+1321,Vistara,Sat, 6 Nov,11:30,09:00,21h 30m,Bangalore,Mumbai,2,18737
+1322,Vistara,Sat, 6 Nov,11:30,09:00,21h 30m,Bangalore,Mumbai,2,18737
+1323,Vistara,Sat, 6 Nov,09:45,09:00,23h 15m,Bangalore,Mumbai,2,18737
+1324,Vistara,Sat, 6 Nov,09:45,09:00,23h 15m,Bangalore,Mumbai,2,18737
+1325,Vistara,Sat, 6 Nov,09:45,09:00,23h 15m,Bangalore,Mumbai,2,18737
+1326,Vistara,Sat, 6 Nov,08:00,09:00,25h 00m,Bangalore,Mumbai,2,18737
+1327,Vistara,Sat, 6 Nov,08:00,09:00,25h 00m,Bangalore,Mumbai,2,18737
+1328,Vistara,Sat, 6 Nov,07:00,09:00,26h 00m,Bangalore,Mumbai,2,18737
+1329,Vistara,Sat, 6 Nov,07:00,09:00,26h 00m,Bangalore,Mumbai,2,18737
+1330,Vistara,Sat, 6 Nov,09:45,11:40,25h 55m,Bangalore,Mumbai,2,19052
+1331,Vistara,Sat, 6 Nov,09:45,11:40,25h 55m,Bangalore,Mumbai,2,19052
+1332,Vistara,Sat, 6 Nov,07:00,11:40,28h 40m,Bangalore,Mumbai,2,19052
+1333,Vistara,Sat, 6 Nov,07:00,11:40,28h 40m,Bangalore,Mumbai,2,19052
+1334,Vistara,Sat, 6 Nov,10:15,21:35,11h 20m,Bangalore,Mumbai,1,21874
+1335,Vistara,Sat, 6 Nov,10:15,15:25,29h 10m,Bangalore,Mumbai,1,28069
+1336,Air Asia,Sun, 7 Nov,00:45,06:35,5h 50m,Bangalore,Mumbai,1,5176
+1337,Air Asia,Sun, 7 Nov,00:10,06:35,6h 25m,Bangalore,Mumbai,1,5176
+1338,Air Asia,Sun, 7 Nov,22:10,06:35,8h 25m,Bangalore,Mumbai,1,5176
+1339,Go First,Sun, 7 Nov,05:45,07:20,1h 35m,Bangalore,Mumbai,Non,5177
+1340,Go First,Sun, 7 Nov,08:10,09:50,1h 40m,Bangalore,Mumbai,Non,5177
+1341,Go First,Sun, 7 Nov,22:00,23:55,1h 55m,Bangalore,Mumbai,Non,5177
+1342,Go First,Sun, 7 Nov,14:00,20:20,6h 20m,Bangalore,Mumbai,1,5177
+1343,Go First,Sun, 7 Nov,21:00,04:55,7h 55m,Bangalore,Mumbai,1,5177
+1344,Go First,Sun, 7 Nov,07:40,16:35,8h 55m,Bangalore,Mumbai,1,5177
+1345,Go First,Sun, 7 Nov,07:40,17:30,9h 50m,Bangalore,Mumbai,1,5177
+1346,Go First,Sun, 7 Nov,22:15,09:40,11h 25m,Bangalore,Mumbai,1,5177
+1347,Go First,Sun, 7 Nov,21:00,09:10,12h 10m,Bangalore,Mumbai,1,5177
+1348,Go First,Sun, 7 Nov,07:40,20:25,12h 45m,Bangalore,Mumbai,1,5177
+1349,IndiGo,Sun, 7 Nov,04:30,06:10,1h 40m,Bangalore,Mumbai,Non,5178
+1350,IndiGo,Sun, 7 Nov,06:00,07:50,1h 50m,Bangalore,Mumbai,Non,5178
+1351,IndiGo,Sun, 7 Nov,07:00,08:50,1h 50m,Bangalore,Mumbai,Non,5178
+1352,IndiGo,Sun, 7 Nov,23:45,05:50,6h 05m,Bangalore,Mumbai,1,5178
+1353,Vistara,Sun, 7 Nov,06:40,08:15,1h 35m,Bangalore,Mumbai,Non,5179
+1354,Air Asia,Sun, 7 Nov,05:35,07:15,1h 40m,Bangalore,Mumbai,Non,5179
+1355,Vistara,Sun, 7 Nov,21:40,23:25,1h 45m,Bangalore,Mumbai,Non,5179
+1356,Air Asia,Sun, 7 Nov,04:50,06:45,1h 55m,Bangalore,Mumbai,Non,5179
+1357,Vistara,Sun, 7 Nov,09:30,11:25,1h 55m,Bangalore,Mumbai,Non,5179
+1358,IndiGo,Sun, 7 Nov,08:05,09:55,1h 50m,Bangalore,Mumbai,Non,5546
+1359,Go First,Sun, 7 Nov,16:30,18:20,1h 50m,Bangalore,Mumbai,Non,5755
+1360,IndiGo,Sun, 7 Nov,10:30,12:25,1h 55m,Bangalore,Mumbai,Non,6858
+1361,IndiGo,Sun, 7 Nov,07:10,12:15,5h 05m,Bangalore,Mumbai,1,7005
+1362,IndiGo,Sun, 7 Nov,06:10,12:15,6h 05m,Bangalore,Mumbai,1,7005
+1363,IndiGo,Sun, 7 Nov,22:55,06:35,7h 40m,Bangalore,Mumbai,1,7005
+1364,Vistara,Sun, 7 Nov,11:30,13:15,1h 45m,Bangalore,Mumbai,Non,7122
+1365,Vistara,Sun, 7 Nov,19:55,21:50,1h 55m,Bangalore,Mumbai,Non,7122
+1366,IndiGo,Sun, 7 Nov,12:40,14:30,1h 50m,Bangalore,Mumbai,Non,7173
+1367,IndiGo,Sun, 7 Nov,19:35,21:35,2h 00m,Bangalore,Mumbai,Non,7173
+1368,IndiGo,Sun, 7 Nov,18:00,19:50,1h 50m,Bangalore,Mumbai,Non,7593
+1369,IndiGo,Sun, 7 Nov,22:40,00:35,1h 55m,Bangalore,Mumbai,Non,7593
+1370,Vistara,Sun, 7 Nov,18:25,20:15,1h 50m,Bangalore,Mumbai,Non,7647
+1371,IndiGo,Sun, 7 Nov,10:55,15:05,4h 10m,Bangalore,Mumbai,1,7919
+1372,IndiGo,Sun, 7 Nov,09:10,15:05,5h 55m,Bangalore,Mumbai,1,7919
+1373,IndiGo,Sun, 7 Nov,07:05,11:35,4h 30m,Bangalore,Mumbai,1,8375
+1374,Vistara,Sun, 7 Nov,19:25,09:55,14h 30m,Bangalore,Mumbai,1,8434
+1375,IndiGo,Sun, 7 Nov,13:05,19:15,6h 10m,Bangalore,Mumbai,1,8832
+1376,Vistara,Sun, 7 Nov,19:25,23:00,3h 35m,Bangalore,Mumbai,1,8959
+1377,Air India,Sun, 7 Nov,17:50,09:05,15h 15m,Bangalore,Mumbai,1,9277
+1378,Air India,Sun, 7 Nov,17:50,10:10,16h 20m,Bangalore,Mumbai,1,9277
+1379,Air India,Sun, 7 Nov,17:50,11:15,17h 25m,Bangalore,Mumbai,1,9277
+1380,Air India,Sun, 7 Nov,17:50,12:50,19h 00m,Bangalore,Mumbai,1,9277
+1381,Air India,Sun, 7 Nov,17:50,18:15,24h 25m,Bangalore,Mumbai,2,9277
+1382,Air India,Sun, 7 Nov,06:10,09:05,26h 55m,Bangalore,Mumbai,1,9277
+1383,Air India,Sun, 7 Nov,17:50,21:35,27h 45m,Bangalore,Mumbai,2,9277
+1384,Air India,Sun, 7 Nov,06:10,10:10,28h 00m,Bangalore,Mumbai,1,9277
+1385,IndiGo,Sun, 7 Nov,06:10,10:05,3h 55m,Bangalore,Mumbai,1,9746
+1386,IndiGo,Sun, 7 Nov,16:20,20:45,4h 25m,Bangalore,Mumbai,1,9746
+1387,IndiGo,Sun, 7 Nov,18:45,23:25,4h 40m,Bangalore,Mumbai,1,9746
+1388,IndiGo,Sun, 7 Nov,06:50,11:35,4h 45m,Bangalore,Mumbai,1,9746
+1389,IndiGo,Sun, 7 Nov,15:45,20:45,5h 00m,Bangalore,Mumbai,1,9746
+1390,IndiGo,Sun, 7 Nov,14:50,20:45,5h 55m,Bangalore,Mumbai,1,9746
+1391,IndiGo,Sun, 7 Nov,16:20,23:25,7h 05m,Bangalore,Mumbai,1,9746
+1392,IndiGo,Sun, 7 Nov,13:05,20:45,7h 40m,Bangalore,Mumbai,1,9746
+1393,Air India,Sun, 7 Nov,22:00,22:25,24h 25m,Bangalore,Mumbai,1,9779
+1394,IndiGo,Sun, 7 Nov,18:15,00:20,6h 05m,Bangalore,Mumbai,1,10202
+1395,IndiGo,Sun, 7 Nov,15:45,22:10,6h 25m,Bangalore,Mumbai,1,10202
+1396,IndiGo,Sun, 7 Nov,14:50,22:10,7h 20m,Bangalore,Mumbai,1,10202
+1397,Vistara,Sun, 7 Nov,12:20,23:10,10h 50m,Bangalore,Mumbai,1,10482
+1398,Air India,Sun, 7 Nov,10:25,09:05,22h 40m,Bangalore,Mumbai,1,10779
+1399,Air India,Sun, 7 Nov,10:25,10:10,23h 45m,Bangalore,Mumbai,1,10779
+1400,IndiGo,Sun, 7 Nov,09:20,16:35,7h 15m,Bangalore,Mumbai,1,11006
+1401,Air India,Sun, 7 Nov,19:10,21:05,1h 55m,Bangalore,Mumbai,Non,11164
+1402,Air India,Sun, 7 Nov,18:50,12:50,18h 00m,Bangalore,Mumbai,2,11545
+1403,Air India,Sun, 7 Nov,18:50,18:15,23h 25m,Bangalore,Mumbai,3,11545
+1404,Air India,Sun, 7 Nov,18:50,18:15,23h 25m,Bangalore,Mumbai,3,11545
+1405,Air India,Sun, 7 Nov,18:50,21:35,26h 45m,Bangalore,Mumbai,3,11545
+1406,Air India,Sun, 7 Nov,18:50,21:35,26h 45m,Bangalore,Mumbai,3,11545
+1407,Air India,Sun, 7 Nov,15:15,18:15,27h 00m,Bangalore,Mumbai,4,11545
+1408,Air India,Sun, 7 Nov,15:15,21:35,30h 20m,Bangalore,Mumbai,4,11545
+1409,Air India,Sun, 7 Nov,15:15,21:35,30h 20m,Bangalore,Mumbai,4,11545
+1410,IndiGo,Sun, 7 Nov,16:50,18:35,1h 45m,Bangalore,Mumbai,Non,11583
+1411,Vistara,Sun, 7 Nov,21:10,08:00,10h 50m,Bangalore,Mumbai,1,11849
+1412,Vistara,Sun, 7 Nov,19:40,08:00,12h 20m,Bangalore,Mumbai,1,11849
+1413,Vistara,Sun, 7 Nov,21:10,09:45,12h 35m,Bangalore,Mumbai,1,11849
+1414,Vistara,Sun, 7 Nov,21:10,11:10,14h 00m,Bangalore,Mumbai,1,11849
+1415,Vistara,Sun, 7 Nov,19:40,09:45,14h 05m,Bangalore,Mumbai,1,11849
+1416,Vistara,Sun, 7 Nov,17:45,08:00,14h 15m,Bangalore,Mumbai,1,11849
+1417,Vistara,Sun, 7 Nov,21:10,11:40,14h 30m,Bangalore,Mumbai,1,11849
+1418,Vistara,Sun, 7 Nov,21:10,12:35,15h 25m,Bangalore,Mumbai,1,11849
+1419,Vistara,Sun, 7 Nov,19:40,11:10,15h 30m,Bangalore,Mumbai,1,11849
+1420,Vistara,Sun, 7 Nov,17:45,09:45,16h 00m,Bangalore,Mumbai,1,11849
+1421,Go First,Sun, 7 Nov,18:50,02:00,7h 10m,Bangalore,Mumbai,1,11870
+1422,IndiGo,Sun, 7 Nov,14:50,19:45,4h 55m,Bangalore,Mumbai,1,12029
+1423,Go First,Sun, 7 Nov,15:45,19:40,3h 55m,Bangalore,Mumbai,1,13474
+1424,SpiceJet,Sun, 7 Nov,05:55,14:45,8h 50m,Bangalore,Mumbai,1,13474
+1425,SpiceJet,Sun, 7 Nov,05:55,18:50,12h 55m,Bangalore,Mumbai,1,13474
+1426,IndiGo,Sun, 7 Nov,06:15,10:15,4h 00m,Bangalore,Mumbai,1,13526
+1427,IndiGo,Sun, 7 Nov,09:05,13:05,4h 00m,Bangalore,Mumbai,1,13526
+1428,IndiGo,Sun, 7 Nov,10:10,14:25,4h 15m,Bangalore,Mumbai,1,13526
+1429,IndiGo,Sun, 7 Nov,09:05,14:25,5h 20m,Bangalore,Mumbai,1,13526
+1430,IndiGo,Sun, 7 Nov,14:10,19:40,5h 30m,Bangalore,Mumbai,1,13526
+1431,IndiGo,Sun, 7 Nov,06:15,13:05,6h 50m,Bangalore,Mumbai,1,13526
+1432,IndiGo,Sun, 7 Nov,10:10,17:45,7h 35m,Bangalore,Mumbai,1,13526
+1433,Air India,Sun, 7 Nov,05:45,17:25,11h 40m,Bangalore,Mumbai,2,13815
+1434,IndiGo,Sun, 7 Nov,12:45,17:45,5h 00m,Bangalore,Mumbai,1,13841
+1435,IndiGo,Sun, 7 Nov,12:45,19:40,6h 55m,Bangalore,Mumbai,1,13841
+1436,Air India,Sun, 7 Nov,11:50,17:25,5h 35m,Bangalore,Mumbai,1,14300
+1437,Air India,Sun, 7 Nov,09:00,22:25,13h 25m,Bangalore,Mumbai,2,14419
+1438,Air India,Sun, 7 Nov,17:50,16:25,22h 35m,Bangalore,Mumbai,3,16272
+1439,Air India,Sun, 7 Nov,06:10,16:25,34h 15m,Bangalore,Mumbai,3,16272
+1440,Go First,Sun, 7 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,16759
+1441,Go First,Sun, 7 Nov,09:15,17:00,7h 45m,Bangalore,Mumbai,1,16780
+1442,Air India,Sun, 7 Nov,10:25,16:25,30h 00m,Bangalore,Mumbai,3,17774
+1443,Vistara,Sun, 7 Nov,09:45,16:00,30h 15m,Bangalore,Mumbai,2,17925
+1444,Vistara,Sun, 7 Nov,08:00,16:00,32h 00m,Bangalore,Mumbai,2,17925
+1445,Vistara,Sun, 7 Nov,11:00,15:25,28h 25m,Bangalore,Mumbai,1,18514
+1446,Air India,Sun, 7 Nov,13:20,16:25,27h 05m,Bangalore,Mumbai,3,18698
+1447,Vistara,Sun, 7 Nov,09:45,09:00,23h 15m,Bangalore,Mumbai,2,18737
+1448,Vistara,Sun, 7 Nov,09:45,11:40,25h 55m,Bangalore,Mumbai,2,18737
+1449,Vistara,Sun, 7 Nov,07:00,09:00,26h 00m,Bangalore,Mumbai,2,18737
+1450,Vistara,Sun, 7 Nov,07:00,11:40,28h 40m,Bangalore,Mumbai,2,18737
+1451,Vistara,Sun, 7 Nov,09:45,14:30,28h 45m,Bangalore,Mumbai,2,18737
+1452,Air Asia,Sun, 7 Nov,13:10,19:35,6h 25m,Bangalore,Mumbai,1,18750
+1453,Air Asia,Sun, 7 Nov,05:40,19:35,13h 55m,Bangalore,Mumbai,1,18750
+1454,Air Asia,Sun, 7 Nov,12:55,19:35,6h 40m,Bangalore,Mumbai,1,18960
+1455,Vistara,Sun, 7 Nov,09:45,22:35,12h 50m,Bangalore,Mumbai,2,19577
+1456,Vistara,Sun, 7 Nov,08:00,22:35,14h 35m,Bangalore,Mumbai,2,19577
+1457,Vistara,Sun, 7 Nov,07:00,22:35,15h 35m,Bangalore,Mumbai,2,19577
+1458,Air India,Sun, 7 Nov,07:00,15:50,8h 50m,Bangalore,Mumbai,1,19774
+1459,Air Asia,Sun, 7 Nov,11:20,22:15,10h 55m,Bangalore,Mumbai,1,22740
+1460,Air Asia,Sun, 7 Nov,06:15,22:15,16h 00m,Bangalore,Mumbai,1,22740
+1461,Go First,Sun, 7 Nov,10:35,22:20,11h 45m,Bangalore,Mumbai,1,23445
+1462,Vistara,Sun, 7 Nov,11:00,21:35,10h 35m,Bangalore,Mumbai,1,25444
+1463,Air India,Sun, 7 Nov,05:45,16:45,11h 00m,Bangalore,Mumbai,2,25759
+1464,SpiceJet,Wed, 3 Nov,11:40,12:50,1h 10m,Pune,Goa,Non,6168
+1465,Air Asia,Wed, 3 Nov,19:25,07:00,11h 35m,Pune,Goa,1,6225
+1466,IndiGo,Wed, 3 Nov,13:55,14:55,1h 00m,Pune,Goa,Non,6273
+1467,IndiGo,Wed, 3 Nov,09:50,14:10,4h 20m,Pune,Goa,1,6541
+1468,IndiGo,Wed, 3 Nov,11:10,18:25,7h 15m,Pune,Goa,1,9213
+1469,IndiGo,Wed, 3 Nov,11:10,15:35,4h 25m,Pune,Goa,1,9528
+1470,IndiGo,Wed, 3 Nov,13:40,17:25,3h 45m,Pune,Goa,1,9633
+1471,IndiGo,Wed, 3 Nov,11:10,21:15,10h 05m,Pune,Goa,1,9843
+1472,IndiGo,Wed, 3 Nov,08:10,18:25,10h 15m,Pune,Goa,1,10368
+1473,IndiGo,Wed, 3 Nov,08:10,15:35,7h 25m,Pune,Goa,1,10683
+1474,IndiGo,Wed, 3 Nov,14:00,18:25,4h 25m,Pune,Goa,1,10893
+1475,IndiGo,Wed, 3 Nov,14:00,21:15,7h 15m,Pune,Goa,1,11523
+1476,IndiGo,Wed, 3 Nov,08:10,14:05,5h 55m,Pune,Goa,1,12783
+1477,Vistara,Wed, 3 Nov,13:10,21:20,8h 10m,Pune,Goa,1,12798
+1478,Vistara,Wed, 3 Nov,16:55,21:20,28h 25m,Pune,Goa,1,12798
+1479,Vistara,Wed, 3 Nov,19:30,21:20,25h 50m,Pune,Goa,1,13512
+1480,IndiGo,Wed, 3 Nov,14:40,19:40,5h 00m,Pune,Goa,1,14306
+1481,IndiGo,Wed, 3 Nov,09:35,19:40,10h 05m,Pune,Goa,1,15776
+1482,IndiGo,Wed, 3 Nov,15:35,20:50,5h 15m,Pune,Goa,1,16038
+1483,IndiGo,Wed, 3 Nov,13:40,20:50,7h 10m,Pune,Goa,1,16038
+1484,Vistara,Wed, 3 Nov,16:55,13:50,20h 55m,Pune,Goa,1,16353
+1485,Vistara,Wed, 3 Nov,08:15,21:20,13h 05m,Pune,Goa,1,16563
+1486,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,1,16668
+1487,Vistara,Wed, 3 Nov,16:55,13:50,20h 55m,Pune,Goa,2,16793
+1488,Vistara,Wed, 3 Nov,16:55,13:50,20h 55m,Pune,Goa,2,16793
+1489,Vistara,Wed, 3 Nov,16:55,13:50,20h 55m,Pune,Goa,2,16793
+1490,Vistara,Wed, 3 Nov,16:55,13:50,20h 55m,Pune,Goa,2,16793
+1491,Vistara,Wed, 3 Nov,19:30,13:50,18h 20m,Pune,Goa,1,16983
+1492,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,2,17418
+1493,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,2,17418
+1494,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,2,17418
+1495,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,2,17418
+1496,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,2,17418
+1497,Vistara,Wed, 3 Nov,13:10,13:50,24h 40m,Pune,Goa,2,17418
+1498,Vistara,Wed, 3 Nov,19:30,13:50,18h 20m,Pune,Goa,2,18132
+1499,Vistara,Wed, 3 Nov,19:30,13:50,18h 20m,Pune,Goa,2,18132
+1500,Vistara,Wed, 3 Nov,08:15,13:50,5h 35m,Pune,Goa,1,18768
+1501,Air India,Wed, 3 Nov,18:50,13:15,18h 25m,Pune,Goa,1,19503
+1502,Air India,Wed, 3 Nov,18:50,14:45,19h 55m,Pune,Goa,2,22574
+1503,Vistara,Wed, 3 Nov,16:55,12:45,19h 50m,Pune,Goa,2,23808
+1504,Vistara,Wed, 3 Nov,19:30,12:45,17h 15m,Pune,Goa,2,24438
+1505,Vistara,Wed, 3 Nov,19:30,12:45,17h 15m,Pune,Goa,2,24438
+1506,Air India,Wed, 3 Nov,16:20,13:15,20h 55m,Pune,Goa,3,25908
+1507,Air India,Wed, 3 Nov,08:45,20:30,11h 45m,Pune,Goa,3,26932
+1508,Air Asia,Fri, 5 Nov,15:35,20:55,5h 20m,Bangalore,Guwahati,1,8400
+1509,Air Asia,Fri, 5 Nov,23:10,06:40,7h 30m,Bangalore,Guwahati,1,8400
+1510,Air Asia,Fri, 5 Nov,00:45,08:25,7h 40m,Bangalore,Guwahati,1,8400
+1511,Air Asia,Fri, 5 Nov,22:55,06:40,7h 45m,Bangalore,Guwahati,1,8400
+1512,Air Asia,Fri, 5 Nov,00:10,08:25,8h 15m,Bangalore,Guwahati,1,8400
+1513,Air Asia,Fri, 5 Nov,00:45,09:25,8h 40m,Bangalore,Guwahati,1,8400
+1514,Air Asia,Fri, 5 Nov,06:15,15:10,8h 55m,Bangalore,Guwahati,1,8400
+1515,Air Asia,Fri, 5 Nov,00:10,09:25,9h 15m,Bangalore,Guwahati,1,8400
+1516,Air Asia,Fri, 5 Nov,05:40,15:10,9h 30m,Bangalore,Guwahati,2,8400
+1517,Air Asia,Fri, 5 Nov,11:20,21:10,9h 50m,Bangalore,Guwahati,1,8400
+1518,Air Asia,Fri, 5 Nov,16:25,20:55,4h 30m,Bangalore,Guwahati,1,8403
+1519,Air Asia,Fri, 5 Nov,05:30,10:20,4h 50m,Bangalore,Guwahati,1,8403
+1520,IndiGo,Fri, 5 Nov,06:10,11:45,5h 35m,Bangalore,Guwahati,1,8450
+1521,IndiGo,Fri, 5 Nov,23:25,05:55,6h 30m,Bangalore,Guwahati,1,8450
+1522,IndiGo,Fri, 5 Nov,13:15,20:05,6h 50m,Bangalore,Guwahati,1,8450
+1523,IndiGo,Fri, 5 Nov,23:25,06:55,7h 30m,Bangalore,Guwahati,1,8450
+1524,IndiGo,Fri, 5 Nov,08:40,16:15,7h 35m,Bangalore,Guwahati,1,8450
+1525,IndiGo,Fri, 5 Nov,03:30,11:40,8h 10m,Bangalore,Guwahati,1,8450
+1526,IndiGo,Fri, 5 Nov,10:55,19:05,8h 10m,Bangalore,Guwahati,1,8450
+1527,IndiGo,Fri, 5 Nov,21:45,05:55,8h 10m,Bangalore,Guwahati,1,8450
+1528,IndiGo,Fri, 5 Nov,13:15,22:10,8h 55m,Bangalore,Guwahati,1,8450
+1529,IndiGo,Fri, 5 Nov,21:45,06:55,9h 10m,Bangalore,Guwahati,1,8450
+1530,IndiGo,Fri, 5 Nov,20:05,05:55,9h 50m,Bangalore,Guwahati,1,8450
+1531,IndiGo,Fri, 5 Nov,09:10,19:05,9h 55m,Bangalore,Guwahati,1,8450
+1532,IndiGo,Fri, 5 Nov,04:40,14:55,10h 15m,Bangalore,Guwahati,1,8450
+1533,IndiGo,Fri, 5 Nov,20:05,06:55,10h 50m,Bangalore,Guwahati,1,8450
+1534,Go First,Fri, 5 Nov,07:40,15:20,7h 40m,Bangalore,Guwahati,1,8501
+1535,IndiGo,Fri, 5 Nov,22:05,01:10,3h 05m,Bangalore,Guwahati,Non,8753
+1536,Air Asia,Fri, 5 Nov,17:30,20:40,3h 10m,Bangalore,Guwahati,Non,8753
+1537,Air Asia,Fri, 5 Nov,15:15,18:30,3h 15m,Bangalore,Guwahati,Non,8753
+1538,Vistara,Fri, 5 Nov,13:50,17:00,3h 10m,Bangalore,Guwahati,Non,8754
+1539,IndiGo,Fri, 5 Nov,15:15,20:05,4h 50m,Bangalore,Guwahati,1,8983
+1540,IndiGo,Fri, 5 Nov,15:15,22:10,6h 55m,Bangalore,Guwahati,1,8983
+1541,IndiGo,Fri, 5 Nov,10:45,17:15,6h 30m,Bangalore,Guwahati,1,9588
+1542,SpiceJet,Fri, 5 Nov,05:55,18:40,12h 45m,Bangalore,Guwahati,1,9653
+1543,SpiceJet,Fri, 5 Nov,17:05,08:10,15h 05m,Bangalore,Guwahati,1,9653
+1544,SpiceJet,Fri, 5 Nov,17:05,18:40,25h 35m,Bangalore,Guwahati,1,9653
+1545,SpiceJet,Fri, 5 Nov,05:55,08:10,26h 15m,Bangalore,Guwahati,1,9653
+1546,Air Asia,Fri, 5 Nov,07:15,10:15,3h 00m,Bangalore,Guwahati,Non,9703
+1547,IndiGo,Fri, 5 Nov,06:35,16:15,9h 40m,Bangalore,Guwahati,1,9753
+1548,IndiGo,Fri, 5 Nov,08:00,10:55,2h 55m,Bangalore,Guwahati,Non,9853
+1549,IndiGo,Fri, 5 Nov,06:35,11:40,5h 05m,Bangalore,Guwahati,1,10003
+1550,IndiGo,Fri, 5 Nov,11:45,20:05,8h 20m,Bangalore,Guwahati,1,10053
+1551,IndiGo,Fri, 5 Nov,11:45,22:10,10h 25m,Bangalore,Guwahati,1,10053
+1552,IndiGo,Fri, 5 Nov,07:10,11:45,4h 35m,Bangalore,Guwahati,1,11003
+1553,Vistara,Fri, 5 Nov,11:30,17:30,6h 00m,Bangalore,Guwahati,1,11216
+1554,Vistara,Fri, 5 Nov,09:45,17:30,7h 45m,Bangalore,Guwahati,1,11216
+1555,Vistara,Fri, 5 Nov,08:00,17:30,9h 30m,Bangalore,Guwahati,1,11216
+1556,Vistara,Fri, 5 Nov,07:00,17:30,10h 30m,Bangalore,Guwahati,1,11216
+1557,Vistara,Fri, 5 Nov,21:10,12:05,14h 55m,Bangalore,Guwahati,1,11216
+1558,Vistara,Fri, 5 Nov,19:40,12:05,16h 25m,Bangalore,Guwahati,1,11216
+1559,Vistara,Fri, 5 Nov,17:45,12:05,18h 20m,Bangalore,Guwahati,1,11216
+1560,Vistara,Fri, 5 Nov,21:10,17:30,20h 20m,Bangalore,Guwahati,1,11216
+1561,Vistara,Fri, 5 Nov,19:40,17:30,21h 50m,Bangalore,Guwahati,1,11216
+1562,Vistara,Fri, 5 Nov,17:45,17:30,23h 45m,Bangalore,Guwahati,1,11216
+1563,Vistara,Fri, 5 Nov,11:30,12:05,24h 35m,Bangalore,Guwahati,1,11216
+1564,Vistara,Fri, 5 Nov,09:45,12:05,26h 20m,Bangalore,Guwahati,1,11216
+1565,Vistara,Fri, 5 Nov,08:00,12:05,28h 05m,Bangalore,Guwahati,1,11216
+1566,Vistara,Fri, 5 Nov,07:00,12:05,29h 05m,Bangalore,Guwahati,1,11216
+1567,Air India,Fri, 5 Nov,18:50,18:10,23h 20m,Bangalore,Guwahati,2,11654
+1568,IndiGo,Fri, 5 Nov,07:50,14:55,7h 05m,Bangalore,Guwahati,1,11743
+1569,IndiGo,Fri, 5 Nov,22:55,09:10,10h 15m,Bangalore,Guwahati,1,12203
+1570,Vistara,Fri, 5 Nov,19:25,12:05,16h 40m,Bangalore,Guwahati,2,13796
+1571,Vistara,Fri, 5 Nov,19:25,17:30,22h 05m,Bangalore,Guwahati,2,13796
+1572,Air India,Fri, 5 Nov,18:50,11:05,16h 15m,Bangalore,Guwahati,2,14018
+1573,Air India,Fri, 5 Nov,18:50,18:10,23h 20m,Bangalore,Guwahati,2,14018
+1574,IndiGo,Fri, 5 Nov,09:30,17:50,8h 20m,Bangalore,Guwahati,1,14203
+1575,IndiGo,Fri, 5 Nov,07:50,17:50,10h 00m,Bangalore,Guwahati,1,14203
+1576,Air India,Fri, 5 Nov,10:25,18:45,8h 20m,Bangalore,Guwahati,1,14254
+1577,Air India,Fri, 5 Nov,06:10,18:45,12h 35m,Bangalore,Guwahati,1,14254
+1578,IndiGo,Fri, 5 Nov,06:40,14:55,8h 15m,Bangalore,Guwahati,1,14503
+1579,Vistara,Fri, 5 Nov,21:40,17:30,19h 50m,Bangalore,Guwahati,2,15186
+1580,Vistara,Fri, 5 Nov,19:55,17:30,21h 35m,Bangalore,Guwahati,2,15186
+1581,Vistara,Fri, 5 Nov,18:25,17:30,23h 05m,Bangalore,Guwahati,2,15186
+1582,Vistara,Fri, 5 Nov,18:25,12:05,17h 40m,Bangalore,Guwahati,2,15356
+1583,Vistara,Fri, 5 Nov,18:25,17:30,23h 05m,Bangalore,Guwahati,2,15356
+1584,IndiGo,Fri, 5 Nov,22:10,07:25,9h 15m,Bangalore,Guwahati,1,15553
+1585,Vistara,Fri, 5 Nov,19:25,17:30,22h 05m,Bangalore,Guwahati,2,15636
+1586,Vistara,Fri, 5 Nov,19:55,12:05,16h 10m,Bangalore,Guwahati,2,15866
+1587,Air India,Fri, 5 Nov,17:50,11:05,17h 15m,Bangalore,Guwahati,2,16118
+1588,IndiGo,Fri, 5 Nov,16:50,00:15,7h 25m,Bangalore,Guwahati,1,16403
+1589,Vistara,Fri, 5 Nov,21:40,12:05,14h 25m,Bangalore,Guwahati,2,16461
+1590,Air India,Fri, 5 Nov,17:50,12:10,18h 20m,Bangalore,Guwahati,1,17754
+1591,Air India,Fri, 5 Nov,13:20,12:10,22h 50m,Bangalore,Guwahati,1,17754
+1592,Vistara,Fri, 5 Nov,08:30,17:30,9h 00m,Bangalore,Guwahati,2,18954
+1593,Vistara,Fri, 5 Nov,06:40,17:30,10h 50m,Bangalore,Guwahati,2,18954
+1594,Air India,Fri, 5 Nov,09:00,12:10,27h 10m,Bangalore,Guwahati,3,19057
+1595,Vistara,Fri, 5 Nov,12:20,12:05,23h 45m,Bangalore,Guwahati,2,19936
+1596,SpiceJet,Fri, 5 Nov,15:05,21:30,6h 25m,Bangalore,Guwahati,1,20054
+1597,IndiGo,Fri, 5 Nov,22:40,09:40,11h 00m,Bangalore,Guwahati,1,22453
+1598,Vistara,Fri, 5 Nov,06:40,17:30,10h 50m,Bangalore,Guwahati,2,26254
+1599,Air Asia,Sun, 7 Nov,15:35,20:55,5h 20m,Bangalore,Guwahati,1,8400
